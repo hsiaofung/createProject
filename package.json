@@ -1,0 +1,87 @@
+{
+  "name": "react-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "core-js": "^3.3.2",
+    "es6-promise": "^4.2.8",
+    "gh-pages": "^2.1.1",
+    "i18next": "^17.2.0",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.4.1",
+    "json-server": "^0.15.1",
+    "node-fetch": "^2.6.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-i18next": "^10.13.1",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.2.0",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.4.0",
+    "three": "^0.114.0"
+  },
+  "scripts": {
+    "start": "PORT=3030 react-scripts start",
+    "build": "react-scripts build",
+    "build:testing": "cross-env REACT_APP_BUILD_ENV=testing react-scripts build",
+    "build:uat": "cross-env REACT_APP_BUILD_ENV=uat react-scripts build",
+    "build:prod": "cross-env REACT_APP_BUILD_ENV=prod react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "server": "node ./json-server/server.js",
+    "jest": "jest __tests__/components"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "ie 11"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^25.1.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "fetch-mock": "^9.0.0",
+    "jest": "^25.1.0",
+    "jest-cli": "^25.1.0",
+    "jest-styled-components": "^7.0.0",
+    "redux-mock-store": "^1.5.4"
+  },
+  "jest": {
+    "setupFiles": [
+      "<rootDir>/jest.setup.js",
+      "core-js"
+    ],
+    "testPathIgnorePatterns": [
+      "<rootDir>/.next/",
+      "<rootDir>/node_modules/"
+    ],
+    "setupFilesAfterEnv": [
+      "<rootDir>/jest.setupAfterEnv.js"
+    ],
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/__mocks__/fileMock.js",
+      "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
+    }
+  }
+}

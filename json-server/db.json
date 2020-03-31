@@ -1,0 +1,6015 @@
+{
+  "tempOrder": {},
+  "product": {
+    "cbu": "5678",
+    "details": {
+      "collection": "MANON",
+      "name": "黑鑽石戒指",
+      "originalPrice": "HK$18,000",
+      "discountPrice": "HK$17,200",
+      "sellingPrice": "HK$17,200",
+      "priceInEur": "(EUR€964.74)",
+      "quantity": 4,
+      "ringMeasure": [
+        {
+          "size": "13",
+          "status": "available"
+        },
+        {
+          "size": "14",
+          "status": "available"
+        },
+        {
+          "size": "15",
+          "status": "available"
+        },
+        {
+          "size": "16",
+          "status": "available"
+        },
+        {
+          "size": "17",
+          "status": "notAvailable"
+        }
+      ]
+    },
+    "info": {
+      "img": "../images/pdt/pdtID_1/pdtShot-1.jpg",
+      "style": "01323R-DI-AA",
+      "des": "在排版設計中，我們會使用沒有意義的文字來測試不同字型和版面下的效果。亂文的目的是希望只專注於觀察字型和版面。"
+    },
+    "collections": [
+      {
+        "img": "../images/collections/m/for-more-other-collection.png",
+        "logo": "../images/collections/collection-logos/tc/origin-alignedH/logo-m.svg",
+        "desc": "簡約，但不簡單，在細節之中顯露品味與個性，現代感十足的設計。",
+        "href": "/"
+      },
+      {
+        "img": "../images/collections/mystique/for-more-other-collection.png",
+        "logo": "../images/collections/collection-logos/tc/origin-alignedH/logo-m.svg",
+        "desc": "簡約，但不簡單，在細節之中顯露品味與個性，現代感十足的設計。",
+        "href": "/"
+      },
+      {
+        "img": "../images/collections/manon/for-more-other-collection.png",
+        "logo": "../images/collections/collection-logos/tc/origin-alignedH/logo-m.svg",
+        "desc": "簡約，但不簡單，在細節之中顯露品味與個性，現代感十足的設計。",
+        "href": "/"
+      },
+      {
+        "img": "../images/collections/m/for-more-other-collection.png",
+        "logo": "../images/collections/collection-logos/tc/origin-alignedH/logo-m.svg",
+        "desc": "簡約，但不簡單，在細節之中顯露品味與個性，現代感十足的設計。",
+        "href": "/"
+      }
+    ],
+    "recommendation": [
+      {
+        "id": "1234",
+        "collection": "MANON",
+        "name": "黑鑽石淚石",
+        "img": "../images/pdt/pdtID_1/thm.png",
+        "hover": "../images/pdt/pdtID_1/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "sellingPrice": "HK$17,200",
+        "priceInEur": "(EUR€964.74)",
+        "href": "/"
+      },
+      {
+        "id": "5678",
+        "collection": "MANON",
+        "name": "黑鑽石十字",
+        "img": "../images/pdt/pdtID_2/thm.png",
+        "hover": "../images/pdt/pdtID_2/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7771",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_1/thm.png",
+        "hover": "../images/pdt/pdtID_1/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7772",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_2/thm.png",
+        "hover": "../images/pdt/pdtID_2/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7773",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_1/thm.png",
+        "hover": "../images/pdt/pdtID_1/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7774",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_2/thm.png",
+        "hover": "../images/pdt/pdtID_2/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      }
+    ],
+    "recentlyViewed": [
+      {
+        "id": "7775",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_1/thm.png",
+        "hover": "../images/pdt/pdtID_1/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "sellingPrice": "HK$17,200",
+        "priceInEur": "(EUR€964.74)",
+        "href": "/"
+      },
+      {
+        "id": "7776",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_2/thm.png",
+        "hover": "../images/pdt/pdtID_2/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7777",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_1/thm.png",
+        "hover": "../images/pdt/pdtID_1/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7778",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_2/thm.png",
+        "hover": "../images/pdt/pdtID_2/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7779",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_1/thm.png",
+        "hover": "../images/pdt/pdtID_1/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      },
+      {
+        "id": "7780",
+        "collection": "MANON",
+        "name": "黑鑽石戒指",
+        "img": "../images/pdt/pdtID_2/thm.png",
+        "hover": "../images/pdt/pdtID_2/thm-hover.png",
+        "tag": "新季產品",
+        "favourite": false,
+        "originalPrice": "HK$18,000",
+        "discountPrice": "HK$17,200",
+        "href": "/"
+      }
+    ],
+    "gallery": [
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-1.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-1.jpg"
+      },
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-2.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-2.jpg"
+      },
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-3.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-3.jpg"
+      },
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-4.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-4.jpg"
+      },
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-1.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-1.jpg"
+      },
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-2.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-2.jpg"
+      },
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-3.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-3.jpg"
+      },
+      {
+        "url": "../images/pdt/pdtID_1/pdtShot-4.jpg",
+        "thumb": "../images/pdt/pdtID_1/pdtShot-4.jpg"
+      }
+    ],
+    "shopTheLook": {
+      "bg": "../images/shop-the-look/look1/pdt-details.jpg",
+      "numberLabel": [
+        {
+          "seq": 1,
+          "collection": "MANON",
+          "name": "黑鑽石戒指",
+          "left": "42%",
+          "top": "76%"
+        },
+        {
+          "seq": 2,
+          "collection": "MANON",
+          "name": "黑鑽石戒指",
+          "left": "47%",
+          "top": "62%"
+        },
+        {
+          "seq": 3,
+          "collection": "MANON",
+          "name": "黑鑽石戒指",
+          "left": "61%",
+          "top": "43%"
+        }
+      ],
+      "products": [
+        {
+          "seq": 1,
+          "collection": "MANON",
+          "name": "黑鑽石戒指",
+          "img": "../images/pdt/pdtID_1/thm.png",
+          "hover": "../images/pdt/pdtID_1/thm-hover.png",
+          "tag": "新季產品",
+          "favourite": false,
+          "originalPrice": "HK$18,000",
+          "discountPrice": "HK$17,200",
+          "sellingPrice": "HK$17,200",
+          "priceInEur": "(EUR€964.74)",
+          "href": "/"
+        },
+        {
+          "seq": 2,
+          "collection": "MANON",
+          "name": "黑鑽石戒指",
+          "img": "../images/pdt/pdtID_2/thm.png",
+          "hover": "../images/pdt/pdtID_2/thm-hover.png",
+          "tag": "新季產品",
+          "favourite": false,
+          "originalPrice": "HK$18,000",
+          "discountPrice": "HK$17,200",
+          "sellingPrice": "HK$17,200",
+          "priceInEur": "(EUR€964.74)",
+          "href": "/"
+        },
+        {
+          "seq": 3,
+          "collection": "MANON",
+          "name": "黑鑽石戒指",
+          "img": "../images/pdt/pdtID_3/thm.png",
+          "hover": "../images/pdt/pdtID_3/thm-hover.png",
+          "tag": "新季產品",
+          "favourite": false,
+          "originalPrice": "HK$18,000",
+          "discountPrice": "HK$17,200",
+          "sellingPrice": "HK$17,200",
+          "priceInEur": "(EUR€964.74)",
+          "href": "/"
+        }
+      ],
+      "text": "簡約，但不簡單，<br>在細節之中顯露品味與個性，<br>現代感十足的設計，<br>優雅雅耐看，<br>刻劃出經典不朽的氣質，<br>以最純粹的方式，<br>為日常造型注入閃亮活力。"
+    },
+    "matchingPdt": [
+      {
+        "name": "999.9黃金十字扣圈頸鍊",
+        "hkprice": "900",
+        "eurprice": "967.74",
+        "img": "../images/pdt/pdtID_4/thm.png",
+        "href": "/"
+      },
+      {
+        "name": "999.9黃金龍骨頸鍊",
+        "hkprice": "1000",
+        "eurprice": "1670.74",
+        "img": "../images/pdt/pdtID_4/thm.png",
+        "href": "/"
+      },
+      {
+        "name": "999.9黃金滿天星頸鍊",
+        "hkprice": "900",
+        "eurprice": "967.74",
+        "img": "../images/pdt/pdtID_4/thm.png",
+        "href": "/"
+      },
+      {
+        "name": "999.9黃金十字扣圈頸鍊",
+        "hkprice": "1200",
+        "eurprice": "1470.84",
+        "img": "../images/pdt/pdtID_4/thm.png",
+        "href": "/"
+      },
+      {
+        "name": "999.9黃金戰甲",
+        "hkprice": "1200",
+        "eurprice": "1470.84",
+        "img": "../images/pdt/pdtID_4/thm.png",
+        "href": "/"
+      },
+      {
+        "name": "999.9黃金寶劍",
+        "hkprice": "1200",
+        "eurprice": "1470.84",
+        "img": "../images/pdt/pdtID_4/thm.png",
+        "href": "/"
+      }
+    ]
+  },
+  "cart": {
+    "id": "A96748",
+    "items": [
+      {
+        "cbu": "1234",
+        "img": "aaa0",
+        "name": "999.9黃金十字扣圈頸鍊"
+      },
+      {
+        "cbu": "5678",
+        "img": "aaa1",
+        "name": "999.9黃金十字寶劍"
+      },
+      {
+        "cbu": "5678",
+        "img": "aaa1",
+        "name": "999.9黃金十字盾牌"
+      },
+      {
+        "cbu": "5678",
+        "img": "aaa1",
+        "name": "999.9黃金十字手鍊"
+      }
+    ]
+  },
+  "wishList": {
+    "createDate": "2018-01-01T01:21:18.316",
+    "wishListItems": [
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "channelCatalogItemId": "5b8f2f8e849f4030642e94ac",
+        "createDate": "2018-01-01T01:21:18.316",
+        "channelCatalogItem": {
+          "prodname1": "g* 系列",
+          "prodname2": "999.9 黃金玉髓吊墜",
+          "origPrice": 1870,
+          "price": 1870,
+          "productDetailUrl": "/productDetail/5c08fb6a351ca23634abf116",
+          "showDiscount": "N",
+          "discountTag": "",
+          "referencePrice": "11.11價格: $972",
+          "images": [
+            {
+              "type": "I",
+              "seq": 1,
+              "url": "http://cdn.chowsangsang.com/dam/PROD/HK/47162B/74204ad7-8452-49b8-b2e9-71f70f86c425-1.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "itemId": "5b8f2f8e849f4030642e94ad",
+        "channelCatalogItemId": "5b8f2f8e849f4030642e94ac",
+        "createDate": "2018-01-01T01:21:18.316",
+        "channelCatalogItem": {
+          "prodname1": "One Piece",
+          "prodname2": "喬巴 足金串珠",
+          "origPrice": 8400,
+          "price": 8200,
+          "productDetailUrl": "/productDetail/5c08fb6a351ca23634abf116",
+          "showDiscount": "N",
+          "discountTag": "",
+          "referencePrice": "11.11價格: $972",
+          "images": [
+            {
+              "type": "I",
+              "seq": 1,
+              "url": "http://cdn.chowsangsang.com/dfs/ivCssModelImages/89007/d153aeb362e5b2fde6c033175a82ee96.jpg"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "cbox_content_new_20190423": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5ca2ec23ea0e57cf63a1571c",
+        "code": "83631C-24GG",
+        "productName1": "Charme",
+        "productName2": "「童話系列」足金串飾",
+        "productName3": "足金串飾",
+        "docId": null,
+        "productDesc": "立體的皇冠造型，讓您如公主般享受著愛和仰慕。                                    <br><br>*每件Charme 系列飾品均附贈銅製磁石配繩1條。",
+        "priceType": "N",
+        "collection": {
+          "code": "C446",
+          "description": "Charme"
+        },
+        "subCollection": {
+          "code": "S0527",
+          "description": "童話系列"
+        },
+        "usage": {
+          "code": "C",
+          "description": "串飾"
+        },
+        "productType": {
+          "code": "GF",
+          "description": "定價足金"
+        },
+        "returnable": null,
+        "categories": [
+          {
+            "code": "JEWELLERY-BYCATEGORY-CHARME",
+            "seq": 1
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-24KGOLD",
+            "seq": 2
+          }
+        ],
+        "styleCatgNbr": "83631",
+        "materialCategory": {
+          "code": null,
+          "description": null
+        },
+        "goldType": {
+          "code": "24GG",
+          "description": "999黃金"
+        },
+        "images": [
+          {
+            "type": "I",
+            "seq": 1,
+            "url": "https://cdn.chowsangsang.com/hkeshop/images/v/p/89285p/EPCM89285KGP_485190_dd88fc3a-13f5-40d6-ba2c-8d4bd5387b22_1200.jpg"
+          },
+          {
+            "type": "I",
+            "seq": 2,
+            "url": "https://cdn.chowsangsang.com/hkeshop/images/p/c/90345c/EPCM90345GDC_4fe13e1e-1242-4064-bfc6-67ac34fdad3e_1200.jpg"
+          }
+        ],
+        "sizingImages": null,
+        "prodPart": [
+          {
+            "code": "PLAS",
+            "description": "塑料"
+          }
+        ],
+        "necklace": null,
+        "packingImages": "http://cdn.chowsangsang.com/eshop/hk/web/packing.jpg",
+        "channelBookingUnits": [
+          {
+            "returnable": true,
+            "cbu": "5cb0518b68282c000820ccd4",
+            "origPrice": "NT$5,300",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "397",
+            "starDollarNTRedeemUp": "NT$2,788",
+            "quantity": 7,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "立體的皇冠造型，讓您如公主般享受著愛和仰慕。                                    <br><br>*每件Charme 系列飾品均附贈銅製磁石配繩1條。",
+              "information": [
+                {
+                  "title": "串飾資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "83631C-24GG"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "足金"
+                    },
+                    {
+                      "name": "重量",
+                      "value": "約 0.34 錢 (約0.034兩)"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "定價"
+                    },
+                    {
+                      "name": "配件",
+                      "value": ["塑料"]
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "GF",
+            "accessory": {
+              "display": {
+                "lv1": {
+                  "title": "選擇配繩款式",
+                  "subitems": [
+                    {
+                      "code": "BRACELET",
+                      "name": "手繩"
+                    }
+                  ]
+                },
+                "lv2": {
+                  "title": "選擇配繩風格",
+                  "subitems": [
+                    {
+                      "code": "LEATHER",
+                      "name": "皮質",
+                      "subitems": [
+                        {
+                          "code": "DARKBROWN",
+                          "name": "深啡",
+                          "colorImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/leather.darkbrown.gif",
+                          "accessoryImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/bracelets_leather.darkbrown.3mm.jpg"
+                        },
+                        {
+                          "code": "PINK",
+                          "name": "粉紅",
+                          "colorImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/leather.pink.gif",
+                          "accessoryImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/bracelets_leather.pink.3mm.jpg"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "STAINLESSSTEEL",
+                      "name": "不銹鋼材質",
+                      "subitems": [
+                        {
+                          "code": "RED",
+                          "name": "紅",
+                          "colorImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/stainlesssteel.red.gif",
+                          "accessoryImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/bracelets_stainlesssteel.red.3mm.jpg"
+                        },
+                        {
+                          "code": "RED_LIGHTPURPLE",
+                          "name": "紅 x 粉紫",
+                          "colorImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/stainlesssteel.redlightpurple.gif",
+                          "accessoryImageUrl": "//cdn.chowsangsang.com/eshop/hk/newweb/bracelets_stainlesssteel.redlightpurple.3mm.jpg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "lv3": {
+                  "title": "選擇長度",
+                  "subitems": [
+                    {
+                      "code": "15CM",
+                      "name": "15公分"
+                    },
+                    {
+                      "code": "17CM",
+                      "name": "17公分"
+                    },
+                    {
+                      "code": "19CM",
+                      "name": "19公分"
+                    }
+                  ]
+                }
+              },
+              "relations": [
+                {
+                  "code": "BRACELET",
+                  "subitems": [
+                    {
+                      "code": "LEATHER",
+                      "subitems": [
+                        {
+                          "code": "DARKBROWN",
+                          "subitems": [
+                            {
+                              "code": "15CM",
+                              "id": {
+                                "modelSequenceNumber": "500",
+                                "modelNumber": "G1133"
+                              },
+                              "price": 400
+                            },
+                            {
+                              "code": "17CM",
+                              "id": {
+                                "modelSequenceNumber": "501",
+                                "modelNumber": "G1134"
+                              },
+                              "price": 400
+                            },
+                            {
+                              "code": "19CM",
+                              "id": {
+                                "modelSequenceNumber": "502",
+                                "modelNumber": "G1135"
+                              },
+                              "price": 400
+                            }
+                          ]
+                        },
+                        {
+                          "code": "PINK",
+                          "subitems": [
+                            {
+                              "code": "17CM",
+                              "id": {
+                                "modelSequenceNumber": "505",
+                                "modelNumber": "G1138"
+                              },
+                              "price": 400
+                            },
+                            {
+                              "code": "19CM",
+                              "id": {
+                                "modelSequenceNumber": "506",
+                                "modelNumber": "G1139"
+                              },
+                              "price": 400
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "code": "STAINLESSSTEEL",
+                      "subitems": [
+                        {
+                          "code": "RED",
+                          "subitems": [
+                            {
+                              "code": "17CM",
+                              "id": {
+                                "modelSequenceNumber": "561",
+                                "modelNumber": "G1194"
+                              },
+                              "price": 400
+                            },
+                            {
+                              "code": "19CM",
+                              "id": {
+                                "modelSequenceNumber": "562",
+                                "modelNumber": "G1195"
+                              },
+                              "price": 400
+                            }
+                          ]
+                        },
+                        {
+                          "code": "RED_LIGHTPURPLE",
+                          "subitems": [
+                            {
+                              "code": "17CM",
+                              "id": {
+                                "modelSequenceNumber": "565",
+                                "modelNumber": "G1201"
+                              },
+                              "price": 400
+                            },
+                            {
+                              "code": "19CM",
+                              "id": {
+                                "modelSequenceNumber": "566",
+                                "modelNumber": "G1202"
+                              },
+                              "price": 400
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "media": {
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_1200.jpg",
+                  "displayUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_700.jpg",
+                  "zoomOutUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_250.jpg",
+                  "listUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_350.jpg",
+                  "miniCartImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_85.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_1200.jpg",
+                  "displayUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_700.jpg",
+                  "zoomOutUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_250.jpg",
+                  "listUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_350.jpg",
+                  "miniCartImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_85.jpg"
+                }
+              ],
+              "sizingImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-SIZE-1_250.jpg",
+              "video": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-VIDEO-1.mp4",
+              "packingImage": "http://cdn.chowsangsang.com/eshop/hk/web/packing.jpg"
+            }
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": null,
+          "description": null
+        }
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5cb0518b68282c000820ccd4",
+          "cci": "5ca2ec23ea0e57cf63a1571c",
+          "lv1Code": "24GG"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "24GG",
+                "name": "足金"
+              }
+            ]
+          }
+        },
+        "relations": [
+          {
+            "code": "24GG",
+            "id": {
+              "cbu": "5cb0518b68282c000820ccd4",
+              "cci": "5ca2ec23ea0e57cf63a1571c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "products_new_20190423": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5ca2ec2cea0e57cf63a15a88",
+        "code": "86591E-24KG",
+        "productName1": "生生有囍",
+        "productName2": "「花卉篇」999.9黃金耳環",
+        "productName3": "999.9黃金耳環",
+        "docId": null,
+        "productDesc": "運用精工打造的繡球花造型搭配大小不一的圈扣圈設計，提高了整體的層次感，更讓耳環可以靈活擺動.搖曳中流露輕盈。",
+        "priceType": "Y",
+        "collection": {
+          "code": "C501",
+          "description": "生生有囍"
+        },
+        "subCollection": {
+          "code": "S0537",
+          "description": "花卉篇"
+        },
+        "usage": {
+          "code": "E",
+          "description": "耳環"
+        },
+        "productType": {
+          "code": "GA",
+          "description": "足金飾品"
+        },
+        "returnable": null,
+        "categories": [
+          {
+            "code": "JEWELLERY-BYCATEGORY-EARRINGS",
+            "seq": 1
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-24KGOLD",
+            "seq": 2
+          },
+          {
+            "code": "Collections-Others-ChineseWeddingCollection",
+            "seq": 3
+          }
+        ],
+        "styleCatgNbr": "86591",
+        "materialCategory": {
+          "code": null,
+          "description": null
+        },
+        "goldType": {
+          "code": "24KG",
+          "description": "999.9黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "packingImages": "http://cdn.chowsangsang.com/eshop/hk/web/packing.jpg",
+        "channelBookingUnits": [
+          {
+            "cbu": "5ca44b20d0e2fa0008441e7a",
+            "origPrice": "NT$33,769",
+            "starDollarEarnRate": "1%",
+            "starDollarRedeemUp": "0",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "運用精工打造的繡球花造型搭配大小不一的圈扣圈設計，提高了整體的層次感，更讓耳環可以靈活擺動.搖曳中流露輕盈。",
+              "information": [
+                {
+                  "title": "耳環資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "86591E-24KG"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "999.9黃金"
+                    },
+                    {
+                      "name": "重量",
+                      "value": "約 3.99 錢 (約0.399兩)"
+                    },
+                    {
+                      "name": "耳壁材質",
+                      "value": "塑料"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "計價"
+                    },
+                    {
+                      "name": "工資",
+                      "value": "NT$13,500"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "GA",
+            "media": {
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_1200.jpg",
+                  "displayUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_700.jpg",
+                  "zoomOutUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_250.jpg",
+                  "listUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_350.jpg",
+                  "miniCartImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_85.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_1200.jpg",
+                  "displayUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_700.jpg",
+                  "zoomOutUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_250.jpg",
+                  "listUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_350.jpg",
+                  "miniCartImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_85.jpg"
+                }
+              ],
+              "sizingImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-SIZE-1_250.jpg",
+              "video": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-VIDEO-1.mp4",
+              "packingImage": "http://cdn.chowsangsang.com/eshop/hk/web/packing.jpg"
+            },
+            "accessories": null
+          },
+          {
+            "cbu": "5ca44b20d0e2fa0008441e7c",
+            "origPrice": "NT$33,668",
+            "starDollarEarnRate": "1%",
+            "starDollarRedeemUp": "0",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "運用精工打造的繡球花造型搭配大小不一的圈扣圈設計，提高了整體的層次感，更讓耳環可以靈活擺動.搖曳中流露輕盈。",
+              "information": [
+                {
+                  "title": "耳環資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "86591E-24KG"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "999.9黃金"
+                    },
+                    {
+                      "name": "重量",
+                      "value": "約 3.97 錢 (約0.397兩)"
+                    },
+                    {
+                      "name": "耳壁材質",
+                      "value": "塑料"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "計價"
+                    },
+                    {
+                      "name": "工資",
+                      "value": "NT$13,500"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "GA",
+            "media": {
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_1200.jpg",
+                  "displayUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_700.jpg",
+                  "zoomOutUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_250.jpg",
+                  "listUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_350.jpg",
+                  "miniCartImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_85.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_1200.jpg",
+                  "displayUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_700.jpg",
+                  "zoomOutUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-2_250.jpg",
+                  "listUrl": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_350.jpg",
+                  "miniCartImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-ESHOP-1_85.jpg"
+                }
+              ],
+              "sizingImage": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-SIZE-1_251.jpg",
+              "video": "http://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/18KR89975K-21---06-065-00060-VIDEO-1.mp4",
+              "packingImage": "http://cdn.chowsangsang.com/eshop/hk/web/packing.jpg"
+            },
+            "accessories": []
+          }
+        ],
+        "accessories": [],
+        "engraving": false,
+        "brand": {
+          "code": null,
+          "description": null
+        }
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5ca44b20d0e2fa0008441e7c",
+          "cci": "5ca2ec2cea0e57cf63a15a88",
+          "lv1Code": "24KG",
+          "lv2Code": "0.397"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "24KG",
+                "name": "999.9黃金"
+              }
+            ]
+          },
+          "lv2": {
+            "title": "重量",
+            "subitems": [
+              {
+                "code": "0.397",
+                "name": "3.97 錢"
+              },
+              {
+                "code": "0.399",
+                "name": "3.99 錢"
+              }
+            ]
+          }
+        },
+        "relations": [
+          {
+            "code": "24KG",
+            "subitems": [
+              {
+                "code": "0.397",
+                "id": {
+                  "cbu": "5ca44b20d0e2fa0008441e7c",
+                  "cci": "5ca2ec2cea0e57cf63a15a88"
+                }
+              },
+              {
+                "code": "0.399",
+                "id": {
+                  "cbu": "5ca44b20d0e2fa0008441e7a",
+                  "cci": "5ca2ec2cea0e57cf63a15a88"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "18KBR": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5cedf5715e5fd200018fbeb0",
+        "code": "88377R-18KR",
+        "productName1": "Fingers Play 「指玩」紅色黃金",
+        "productName2": "曲線造型18K黃金戒指",
+        "productName3": "18K/750紅色黃金戒指",
+        "docId": null,
+        "productDesc": "S 型戒環上的單排圓鑽閃閃生輝，簡約中帶點奢華風格，配襯其他戒指層疊佩戴，更能凸顯個性形象。",
+        "priceType": "X",
+        "collection": {
+          "code": "C458",
+          "description": "Fingers Play 「指玩」"
+        },
+        "subCollection": {
+          "code": "S0458",
+          "description": "Fingers Play 「指玩」"
+        },
+        "usage": {
+          "code": "R",
+          "description": "戒指"
+        },
+        "productType": {
+          "code": "FJ",
+          "description": "K金飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS-SIGNATURECOLLECTIONSS-FINGERSPLAY",
+            "seq": null
+          },
+          {
+            "code": "PROMOTION_SUMMER PARTY",
+            "seq": null
+          },
+          {
+            "code": "Promotion-Monthly",
+            "seq": null
+          },
+          {
+            "code": "Promotion-Monthly-R",
+            "seq": null
+          },
+          {
+            "code": "WEDDING-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "GIFTS-BYPRICE-5001-8000",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "88377",
+        "materialCategory": {
+          "code": null,
+          "description": null
+        },
+        "goldType": {
+          "code": "18KR",
+          "description": "18K 紅色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5cedf5715e5fd200018fbeae",
+            "origPrice": "NT$5,800",
+            "sellingPrice": "NT$4,800",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "435",
+            "starDollarNTRedeemUp": "NT$1,740",
+            "quantity": 5,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "S 型戒環上的單排圓鑽閃閃生輝，簡約中帶點奢華風格，配襯其他戒指層疊佩戴，更能凸顯個性形象。",
+              "information": [
+                "鑽石, 總克拉重 0.482 克拉",
+                "南洋養殖珍珠, 總克拉重 0.133 克拉"
+              ]
+            },
+            "productType": "FJ",
+            "returnable": true,
+            "media": {
+              "sizingImage": null,
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/35ed7129a652205f2fedb6454c615bfc.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/f575d5ddbecdadd6aa1547e26b99c9f4.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/4c7303c9a05d06b78ad325b15e3810af.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/bd8521e39dc776a0238fad1646d55da5.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/96bb6d72ced0d4b9d6969dc714fd3dcf.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c9b968033f283e6b9c869508d0b04892.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/49947d5e807ff447c28db4589118f9b6.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c8de07a2f5ee335a4638ed9c684bffc7.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/4c0c20624fe7f007e77dfda7d021ebc7.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/db3fdf842451e3fc66b2caa638e299f8.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/eef33a6f4e687b7176deb8ff1838139e.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/dda1ce668055864e159a478608a81add.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/5c98fe279b850a38d092d7ef2cc06057.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b7bae155816f900aec1c69b4ac9d3cee.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/2ada57771a8f41f1f57a336f197edd10.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/47856262fd2e55a4b093320e343449f3.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/d19115bc748b5f0c4719341157db35e6.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b974bbfb47f137bd4deb1f734a55bbad.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/1e64ed6db6e39a800748825a07d5e061.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/dc52c91c3f43d9b32ed4426024001b83.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/07b9bc7a13effa81ec4db5433de03b3c.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/7d4fe1eeb934ed125c1951f3f74702c1.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/a0d25df8eef5b32f3eafa121118d173a.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/0803d39ae01d05f2c458dffa6a9b9f12.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c1dbeb7d2e55fc322417ca6a2851ba51.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/d4faa126ec353c4977afc64780b06c46.jpg"
+                },
+                {
+                  "seq": 6,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/090b6123bed69c01a710609ace9a1efc.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/1399fae5fce8545e8990b0635a6433a7.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b6252350ee6d557ee8e265655fbac50d.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/5e4c5e3eb1abe266d21165a0427f5628.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/752f22159f9c360fda90e2c7dbcedd65.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          },
+          {
+            "cbu": "5cedf5715e5fd200018fbeaf",
+            "origPrice": "NT$5,800",
+            "sellingPrice": "NT$4,800",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "435",
+            "starDollarNTRedeemUp": "NT$1,740",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "S 型戒環上的單排圓鑽閃閃生輝，簡約中帶點奢華風格，配襯其他戒指層疊佩戴，更能凸顯個性形象。",
+              "information": [
+                {
+                  "title": "戒指資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "88377R-18KR"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "18K紅色黃金"
+                    },
+                    {
+                      "name": "重量",
+                      "value": "約 0.67 錢 (約0.067兩)"
+                    },
+                    {
+                      "name": "港圍",
+                      "value": "15"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "定價"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "FJ",
+            "returnable": true,
+            "media": {
+              "sizingImage": null,
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/35ed7129a652205f2fedb6454c615bfc.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/f575d5ddbecdadd6aa1547e26b99c9f4.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/4c7303c9a05d06b78ad325b15e3810af.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/bd8521e39dc776a0238fad1646d55da5.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/96bb6d72ced0d4b9d6969dc714fd3dcf.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c9b968033f283e6b9c869508d0b04892.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/49947d5e807ff447c28db4589118f9b6.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c8de07a2f5ee335a4638ed9c684bffc7.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/4c0c20624fe7f007e77dfda7d021ebc7.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/db3fdf842451e3fc66b2caa638e299f8.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/eef33a6f4e687b7176deb8ff1838139e.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/dda1ce668055864e159a478608a81add.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/5c98fe279b850a38d092d7ef2cc06057.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b7bae155816f900aec1c69b4ac9d3cee.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/2ada57771a8f41f1f57a336f197edd10.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/47856262fd2e55a4b093320e343449f3.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/d19115bc748b5f0c4719341157db35e6.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b974bbfb47f137bd4deb1f734a55bbad.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/1e64ed6db6e39a800748825a07d5e061.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/dc52c91c3f43d9b32ed4426024001b83.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/07b9bc7a13effa81ec4db5433de03b3c.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/7d4fe1eeb934ed125c1951f3f74702c1.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/a0d25df8eef5b32f3eafa121118d173a.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/0803d39ae01d05f2c458dffa6a9b9f12.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c1dbeb7d2e55fc322417ca6a2851ba51.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/d4faa126ec353c4977afc64780b06c46.jpg"
+                },
+                {
+                  "seq": 6,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/090b6123bed69c01a710609ace9a1efc.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/1399fae5fce8545e8990b0635a6433a7.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b6252350ee6d557ee8e265655fbac50d.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/5e4c5e3eb1abe266d21165a0427f5628.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/752f22159f9c360fda90e2c7dbcedd65.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": null,
+          "description": null
+        }
+      },
+      {
+        "itemId": "5cedf5ad5e5fd200018fbeb2",
+        "code": "88377R-18KW",
+        "productName1": "Fingers Play 「指玩」 白色黃金",
+        "productName2": "曲線造型18K黃金戒指",
+        "productName3": "18K/750白色黃金戒指",
+        "docId": null,
+        "productDesc": "S 型戒環上的單排圓鑽閃閃生輝，簡約中帶點奢華風格，配襯其他戒指層疊佩戴，更能凸顯個性形象。",
+        "priceType": "X",
+        "collection": {
+          "code": "C458",
+          "description": "Fingers Play 「指玩」"
+        },
+        "subCollection": {
+          "code": "S0458",
+          "description": "Fingers Play 「指玩」"
+        },
+        "usage": {
+          "code": "R",
+          "description": "戒指"
+        },
+        "productType": {
+          "code": "FJ",
+          "description": "K金飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS-SIGNATURECOLLECTIONSS-FINGERSPLAY",
+            "seq": null
+          },
+          {
+            "code": "PROMOTION_SUMMER PARTY",
+            "seq": null
+          },
+          {
+            "code": "Promotion-Monthly",
+            "seq": null
+          },
+          {
+            "code": "Promotion-Monthly-R",
+            "seq": null
+          },
+          {
+            "code": "WEDDING-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "GIFTS-BYPRICE-5001-8000",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "88377",
+        "materialCategory": {
+          "code": null,
+          "description": null
+        },
+        "goldType": {
+          "code": "18KW",
+          "description": "18K 白色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5cedf5ad5e5fd200018fbeb1",
+            "origPrice": "NT$5,800",
+            "sellingPrice": "NT$4,800",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "435",
+            "starDollarNTRedeemUp": "NT$1,740",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "S 型戒環上的單排圓鑽閃閃生輝，簡約中帶點奢華風格，配襯其他戒指層疊佩戴，更能凸顯個性形象。",
+              "information": [
+                {
+                  "title": "戒指資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "88377R-18KW"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "18K白色黃金"
+                    },
+                    {
+                      "name": "重量",
+                      "value": "約 0.48 錢 (約0.048兩)"
+                    },
+                    {
+                      "name": "港圍",
+                      "value": "11"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "定價"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "FJ",
+            "returnable": true,
+            "media": {
+              "sizingImage": null,
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/3412a4bd4fbd0b24729e301fbe33c1b7.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c288d91cab07e192091bbecbd6e1e0ec.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/3dc598d4b0d93e3723ebf3c1a02684a0.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/e117d888a49695b3b0886517786656ba.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/45291b9a95d1de3b6202f4fb3fbd4cd4.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/4a854e78245728a500c4f2d38807f4fe.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/8aa8d7ff2fe54ce3dcc94f35ab4b7035.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c67ce2aff67c2ca529f6b62b7bac6659.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/f4bfa6056ba1f0b76ce31e15722979a6.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/db70a3612bc4cedeb3e69ec02af4d773.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/a40f56a0c7fe4e9992262f2d98cabc53.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/bb0bc6b1ed54bb69bf166ad91853acea.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/6bfa7c70bd72f77e8bfb939ff35468f1.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/84aedb1b87ef4e24abfad18b1cf6b871.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/7166f2e55e05990788c9abc26ca42c24.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/84ff97ebddd0ca9e22141b3ef4acffb4.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/4e2b5516174e50eff612244142661d4e.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/a067e70d24e4a6eae450ee5db55423ce.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/ba07c8fae62a98eef70ff814df4f3a9a.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/7569eee0400ce8cb05fa5c917ed2dbe8.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/af9a22693e5c08f76b655e4fd63a7ad5.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/db3190110560fa8811957258d8f944d6.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b43026d0a6739fb2d3d185bee72fd748.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/275482262856f47a52bf6ef8d1853fd7.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/33660b4c1702bee75a1445c99c49b2a0.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/5d68f01b47a7342d913447ddf8817477.jpg"
+                },
+                {
+                  "seq": 6,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/9d3fe9e29975150d6f2f52d4c8006b9a.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/cf686030d24e012166a33d078b6df637.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/239e4f91fccc9e8bfc3c6cdbb2c3e67d.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b038ba1c45e44685d3574aa00ef851fc.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/1470a1b40c83a6be741af9f72c854b33.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": null,
+          "description": null
+        }
+      },
+      {
+        "itemId": "5cedf5ca5e5fd200018fbeb7",
+        "code": "88377R-18KY",
+        "productName1": "Fingers Play 「指玩」黃色黃金",
+        "productName2": "曲線造型18K黃金戒指",
+        "productName3": "18K/750黃色黃金戒指",
+        "docId": null,
+        "productDesc": "S 型戒環上的單排圓鑽閃閃生輝，簡約中帶點奢華風格，配襯其他戒指層疊佩戴，更能凸顯個性形象。",
+        "priceType": "X",
+        "collection": {
+          "code": "C458",
+          "description": "Fingers Play 「指玩」"
+        },
+        "subCollection": {
+          "code": "S0458",
+          "description": "Fingers Play 「指玩」"
+        },
+        "usage": {
+          "code": "R",
+          "description": "戒指"
+        },
+        "productType": {
+          "code": "FJ",
+          "description": "K金飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS-SIGNATURECOLLECTIONSS-FINGERSPLAY",
+            "seq": null
+          },
+          {
+            "code": "PROMOTION_SUMMER PARTY",
+            "seq": null
+          },
+          {
+            "code": "Promotion-Monthly",
+            "seq": null
+          },
+          {
+            "code": "Promotion-Monthly-R",
+            "seq": null
+          },
+          {
+            "code": "WEDDING-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "GIFTS-BYPRICE-5001-8000",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "88377",
+        "materialCategory": {
+          "code": null,
+          "description": null
+        },
+        "goldType": {
+          "code": "18KY",
+          "description": "18K 黃色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5cedf5ca5e5fd200018fbeb6",
+            "origPrice": "NT$5,800",
+            "sellingPrice": "NT$4,800",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "435",
+            "starDollarNTRedeemUp": "NT$1,740",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "S 型戒環上的單排圓鑽閃閃生輝，簡約中帶點奢華風格，配襯其他戒指層疊佩戴，更能凸顯個性形象。",
+              "information": [
+                {
+                  "title": "戒指資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "88377R-18KY"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "18K黃色黃金"
+                    },
+                    {
+                      "name": "重量",
+                      "value": "約 0.46 錢 (約0.046兩)"
+                    },
+                    {
+                      "name": "港圍",
+                      "value": "09"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "定價"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "FJ",
+            "returnable": true,
+            "media": {
+              "sizingImage": null,
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/68dc22798852581be0be48768d2ff16f.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/7a1e8ab60a20c740e0764b8fb4b41c70.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/735eea2a9b7cef694971d4d7c01f8293.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/105bf60276bfbbb0d213ccb7751873a1.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/0daa6d0eea757af24fc9f6c504d499c8.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/21250ba02f83f7577836c00370ed5605.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/ddf1e9a86971482d75622dd8a47d45dd.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/3f3bb3e1baeaceff3cbd2e1c6c4a9eaf.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/035460a0c8a14819bcee86d42755a820.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/91023ae3841bb4ce0d6553bedf04ab88.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c7fa0bc9231553e46ea38b87eb1e2341.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/ff72ee4b708656a1edaa45226291a47b.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/97f3aec236d6e3e3d3924c70c4390f7d.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/d6bfe0d3b6e4489cd23fe77035747fac.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/e79b277f72497ed75511c61709295356.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/198ccd5f14c60703db762b87d0120407.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/9149ff1a5854eb6f9c7c12bfa1e7cb53.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/a4c6bca85aad8857cc970f3d4eec9b79.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/06f00ec777289b004cf2ef5f4bdbde98.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/f22e7cbe1ffa55e3e536cd144e551456.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/5b0b8a66c9c867349ae9cdb5688ac381.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/6d8b7736ba5afff3bb6c9e020869059a.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/83dc462e8654d4a345501f47954fb930.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/41b1cf7807b4cf0ba21d781830e207dd.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/a53c47cebb5195c1e4c30d9384f18edc.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b575e93a7ef3db830a0f1c687b2ed6ba.jpg"
+                },
+                {
+                  "seq": 6,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/c1679f06ab3f4b47daad8445a1a5874c.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/b291916b691bc48a9da38f419a5022d8.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/1b32863c791d282c95357b433fcc7b83.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/d038e0235857d4220ab99b9b0ae4366e.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/88377/cd36f7fdeadeab3663deb7f91438229b.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": null,
+          "description": null
+        }
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5cedf5715e5fd200018fbeae",
+          "cci": "5cedf5715e5fd200018fbeb0",
+          "lv1Code": "18KR",
+          "lv2Code": "13"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "18KW",
+                "name": "18K白色黃金",
+                "thumbnail": "//cdn.chowsangsang.com/eshop/hk/newweb/stainlesssteel.forestflair.gif"
+              },
+              {
+                "code": "18KR",
+                "name": "18K紅色黃金",
+                "thumbnail": "//cdn.chowsangsang.com/eshop/hk/newweb/stainlesssteel.forestflair.gif"
+              },
+              {
+                "code": "18KY",
+                "name": "18K黃色黃金",
+                "thumbnail": "//cdn.chowsangsang.com/eshop/hk/newweb/stainlesssteel.forestflair.gif"
+              }
+            ]
+          },
+          "lv2": {
+            "title": "港圍",
+            "subitems": [
+              {
+                "code": "09",
+                "name": "09"
+              },
+              {
+                "code": "11",
+                "name": "11"
+              },
+              {
+                "code": "13",
+                "name": "13"
+              },
+              {
+                "code": "15",
+                "name": "15"
+              }
+            ],
+            "sizeGuideAnchor": "#guide-rings",
+            "sizeGuideMessage": "圈度指南"
+          }
+        },
+        "relations": [
+          {
+            "code": "18KR",
+            "subitems": [
+              {
+                "code": "13",
+                "id": {
+                  "cbu": "5cedf5715e5fd200018fbeae",
+                  "cci": "5cedf5715e5fd200018fbeb0"
+                }
+              },
+              {
+                "code": "15",
+                "id": {
+                  "cbu": "5cedf5715e5fd200018fbeaf",
+                  "cci": "5cedf5715e5fd200018fbeb0"
+                }
+              }
+            ]
+          },
+          {
+            "code": "18KW",
+            "subitems": [
+              {
+                "code": "11",
+                "id": {
+                  "cbu": "5cedf5ad5e5fd200018fbeb1",
+                  "cci": "5cedf5ad5e5fd200018fbeb2"
+                }
+              }
+            ]
+          },
+          {
+            "code": "18KY",
+            "subitems": [
+              {
+                "code": "09",
+                "id": {
+                  "cbu": "5cedf5ca5e5fd200018fbeb6",
+                  "cci": "5cedf5ca5e5fd200018fbeb7"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "display": {
+        "prevCode": "87639C-24GG",
+        "nextCode": "87043N-18KR-DD",
+        "vmTagName": "Manon",
+        "vmTagUrl": "/tc/product/JEWELLERY?page=1"
+      }
+    }
+  },
+  "18KR-DD": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5cec92142a026b0001285f95",
+        "code": "84336R-18KR-DD",
+        "productName1": null,
+        "productName2": "18K黃金鑽石戒指",
+        "productName3": "18K/750紅色黃金鑽石戒指",
+        "docId": null,
+        "productDesc": "極致幼細的K金戒指，表面鑲上碎石，每顆輝映著獨特光芒，為您的日常生日送上小驚喜。",
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": null,
+          "description": null
+        },
+        "usage": {
+          "code": "R",
+          "description": "戒指"
+        },
+        "productType": {
+          "code": "DI",
+          "description": "鑽石飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYGEMSTONE-DIAMOND",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "WEDDING-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "GIFTS-BYPRICE-10001-30000",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "84336",
+        "materialCategory": {
+          "code": "DD",
+          "description": "鑽石"
+        },
+        "goldType": {
+          "code": "18KR",
+          "description": "18K 紅色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5cec92142a026b0001285f93",
+            "origPrice": "NT$23,800",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "2,975",
+            "starDollarNTRedeemUp": "NT$11,900",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "極致幼細的K金戒指，表面鑲上碎石，每顆輝映著獨特光芒，為您的日常生日送上小驚喜。",
+              "information": [
+                "鑽石, 總克拉重 0.482 克拉",
+                "南洋養殖珍珠, 總克拉重 0.133 克拉"
+              ]
+            },
+            "productType": "DI",
+            "returnable": true,
+            "media": {
+              "sizingImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ad53bc80d8a9d4c51f2f236e220df9f1.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": null,
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/d823effdf6af82195581258b2b514955.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ee16dab5ddc27fb98496d42b3f804fa8.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/b5345dd4f4006336fab6b76e880c572e.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/2ccb15f9f1e3a3210a22b45d8c85c45e.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/2b28ccc20509d37fa9557a4e024d73bb.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/7cc330ae1a62761eff6f597ac415e04e.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ce88c87b0a5ddc3fa766b4b4aa6f4763.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/3fd2c43946486ed054da134f6922a69e.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/175c2b8145224592b0b1641cd518ef4e.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/a8253631eaadaea4ffcb102242329edd.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/4623560705e4473d69ae58366ee63eac.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/e62e87f0df1a23a6f85289f798c8e591.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/0be32fe2c7afcbc9b18b2cacd3ad0428.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/e69550df8a87687f8bf4342652c689af.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/401cc08f09f7c0454d2fe53c0621f487.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/f94f03122d4a6c96560bf674230b4b3b.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/78701d629cb9481339d249b37d688455.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/38ef5afa8f7ce930d83d1bd2bf81c39c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/4ae700e82e8be8981cc4e28788106fd6.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/e79488d298788327d56a76513b189b36.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/c9ceef3515c6bc6865b8e2ec77f3ca15.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/47025ce630a3e12cca7333ba05d44c45.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/0c00dd992ac6e500a845dbcf1d398135.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ac42efeb1ed431300f680996fde4639c.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/1066e9cdf879a9c61ad7729a3c52d277.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          },
+          {
+            "cbu": "5cec92142a026b0001285f94",
+            "origPrice": "NT$23,600",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "2,950",
+            "starDollarNTRedeemUp": "NT$11,800",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "極致幼細的K金戒指，表面鑲上碎石，每顆輝映著獨特光芒，為您的日常生日送上小驚喜。",
+              "information": [
+                {
+                  "title": "戒指資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "84336R-18KR-DD"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "18K紅色黃金"
+                    },
+                    {
+                      "name": "港圍",
+                      "value": "15"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "定價"
+                    }
+                  ]
+                },
+                {
+                  "title": "鑽石資料",
+                  "data": [
+                    {
+                      "name": "寶石物料",
+                      "value": "鑽石"
+                    },
+                    {
+                      "name": "形狀/切工",
+                      "value": "圓鑽形"
+                    },
+                    {
+                      "name": "顏色",
+                      "value": "G-H"
+                    },
+                    {
+                      "name": "淨度級別",
+                      "value": "VS1-VS2"
+                    },
+                    {
+                      "name": "鑽石數量",
+                      "value": "41"
+                    },
+                    {
+                      "name": "總克拉重",
+                      "value": "0.206 克拉"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "DI",
+            "returnable": true,
+            "media": {
+              "sizingImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ad53bc80d8a9d4c51f2f236e220df9f1.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": null,
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/d823effdf6af82195581258b2b514955.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ee16dab5ddc27fb98496d42b3f804fa8.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/b5345dd4f4006336fab6b76e880c572e.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/2ccb15f9f1e3a3210a22b45d8c85c45e.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/2b28ccc20509d37fa9557a4e024d73bb.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/7cc330ae1a62761eff6f597ac415e04e.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ce88c87b0a5ddc3fa766b4b4aa6f4763.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/3fd2c43946486ed054da134f6922a69e.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/175c2b8145224592b0b1641cd518ef4e.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/a8253631eaadaea4ffcb102242329edd.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/4623560705e4473d69ae58366ee63eac.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/e62e87f0df1a23a6f85289f798c8e591.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/0be32fe2c7afcbc9b18b2cacd3ad0428.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/e69550df8a87687f8bf4342652c689af.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/401cc08f09f7c0454d2fe53c0621f487.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/f94f03122d4a6c96560bf674230b4b3b.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/78701d629cb9481339d249b37d688455.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/38ef5afa8f7ce930d83d1bd2bf81c39c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/4ae700e82e8be8981cc4e28788106fd6.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/e79488d298788327d56a76513b189b36.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/c9ceef3515c6bc6865b8e2ec77f3ca15.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/47025ce630a3e12cca7333ba05d44c45.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/0c00dd992ac6e500a845dbcf1d398135.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ac42efeb1ed431300f680996fde4639c.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/1066e9cdf879a9c61ad7729a3c52d277.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": null,
+          "description": null
+        }
+      },
+      {
+        "itemId": "5cec92142a026b0001285f98",
+        "code": "84336R-18KW-DD",
+        "productName1": null,
+        "productName2": "18K黃金鑽石戒指",
+        "productName3": "18K/750白色黃金鑽石戒指",
+        "docId": null,
+        "productDesc": "極致幼細的K金戒指，表面鑲上碎石，每顆輝映著獨特光芒，為您的日常生日送上小驚喜。",
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": null,
+          "description": null
+        },
+        "usage": {
+          "code": "R",
+          "description": "戒指"
+        },
+        "productType": {
+          "code": "DI",
+          "description": "鑽石飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYGEMSTONE-DIAMOND",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "WEDDING-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "GIFTS-BYPRICE-10001-30000",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "84336",
+        "materialCategory": {
+          "code": "DD",
+          "description": "鑽石"
+        },
+        "goldType": {
+          "code": "18KW",
+          "description": "18K 白色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5cec92142a026b0001285f96",
+            "origPrice": "NT$24,200",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "3,025",
+            "starDollarNTRedeemUp": "NT$12,100",
+            "quantity": 2,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "極致幼細的K金戒指，表面鑲上碎石，每顆輝映著獨特光芒，為您的日常生日送上小驚喜。",
+              "information": [
+                {
+                  "title": "戒指資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "84336R-18KW-DD"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "18K白色黃金"
+                    },
+                    {
+                      "name": "港圍",
+                      "value": "15"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "定價"
+                    }
+                  ]
+                },
+                {
+                  "title": "鑽石資料",
+                  "data": [
+                    {
+                      "name": "寶石物料",
+                      "value": "鑽石"
+                    },
+                    {
+                      "name": "形狀/切工",
+                      "value": "圓鑽形"
+                    },
+                    {
+                      "name": "顏色",
+                      "value": "G-H"
+                    },
+                    {
+                      "name": "淨度級別",
+                      "value": "VS1-VS2"
+                    },
+                    {
+                      "name": "鑽石數量",
+                      "value": "41"
+                    },
+                    {
+                      "name": "總克拉重",
+                      "value": "0.2 克拉"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "DI",
+            "returnable": true,
+            "media": {
+              "sizingImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/fc35d7edd574ca660a04a18c07ccd8fb.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": null,
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/afeb3fa9e40d2858e86af0ad0a1609f5.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/5d4148b4138c15ae98151af507a0bebc.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/f8cd32ddc7c957a4e326fd46186964c3.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/30a3804ccd3dbd413619a9477d419b35.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/5c519afa301674409cd2cb1b67925030.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/bff6b81291ec5e18682753f16d8a28d7.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9562ef562b8def30e83ec96aa034d3e2.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/da41f72c4e8c61974b296731501b524c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/09a6916ad030e7198c224d8b5b83f976.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ac13552af99ed783f58b6c16e029b64b.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/7a6f7fd5fb71fa70a8e5f833ba2eb7d0.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/2a7bd18dc0e7f37a493eee91ea05f4f6.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/d3aa24ad5c6320446f1495221bb4919c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/cb161c314423a154eab2fb5baab2904a.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/eb163f8ceffb170e9c3252bfd53ce25e.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/84a544adcf3a62b387b338321e87fa00.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/626465d3ee77f25eebb4a5be236ca43d.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9d658e7d15f5dc072cfbabbf7e14586c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/55789cd050c6737cbeec4fdd5adf0867.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9a70c558c73177ebb5529a6864fa4d56.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/b8efd10c965a375cf08e264b65a8c242.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/a4a02c5d3ec051ce47eb67700dbac75b.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9ccb94832eeffe32aaf7bffd6b509988.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/08c4bff0f71b5a58429187ae52e3eed3.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/fab6541db7253e796a731052276949a9.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          },
+          {
+            "cbu": "5cec92142a026b0001285f97",
+            "origPrice": "NT$23,500",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "2,937",
+            "starDollarNTRedeemUp": "NT$11,748",
+            "quantity": 0,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "極致幼細的K金戒指，表面鑲上碎石，每顆輝映著獨特光芒，為您的日常生日送上小驚喜。",
+              "information": [
+                {
+                  "title": "戒指資料",
+                  "data": [
+                    {
+                      "name": "款號",
+                      "value": "84336R-18KW-DD"
+                    },
+                    {
+                      "name": "材質",
+                      "value": "18K白色黃金"
+                    },
+                    {
+                      "name": "港圍",
+                      "value": "13"
+                    },
+                    {
+                      "name": "價格類型",
+                      "value": "定價"
+                    }
+                  ]
+                },
+                {
+                  "title": "鑽石資料",
+                  "data": [
+                    {
+                      "name": "寶石物料",
+                      "value": "鑽石"
+                    },
+                    {
+                      "name": "形狀/切工",
+                      "value": "圓鑽形"
+                    },
+                    {
+                      "name": "顏色",
+                      "value": "G-H"
+                    },
+                    {
+                      "name": "淨度級別",
+                      "value": "VS1-VS2"
+                    },
+                    {
+                      "name": "鑽石數量",
+                      "value": "41"
+                    },
+                    {
+                      "name": "總克拉重",
+                      "value": "0.2 克拉"
+                    }
+                  ]
+                }
+              ]
+            },
+            "productType": "DI",
+            "returnable": true,
+            "media": {
+              "sizingImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/fc35d7edd574ca660a04a18c07ccd8fb.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": null,
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/afeb3fa9e40d2858e86af0ad0a1609f5.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/5d4148b4138c15ae98151af507a0bebc.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/f8cd32ddc7c957a4e326fd46186964c3.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/30a3804ccd3dbd413619a9477d419b35.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/5c519afa301674409cd2cb1b67925030.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/bff6b81291ec5e18682753f16d8a28d7.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9562ef562b8def30e83ec96aa034d3e2.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/da41f72c4e8c61974b296731501b524c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/09a6916ad030e7198c224d8b5b83f976.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/ac13552af99ed783f58b6c16e029b64b.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/7a6f7fd5fb71fa70a8e5f833ba2eb7d0.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/2a7bd18dc0e7f37a493eee91ea05f4f6.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/d3aa24ad5c6320446f1495221bb4919c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/cb161c314423a154eab2fb5baab2904a.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/eb163f8ceffb170e9c3252bfd53ce25e.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/84a544adcf3a62b387b338321e87fa00.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/626465d3ee77f25eebb4a5be236ca43d.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9d658e7d15f5dc072cfbabbf7e14586c.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/55789cd050c6737cbeec4fdd5adf0867.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9a70c558c73177ebb5529a6864fa4d56.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/b8efd10c965a375cf08e264b65a8c242.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/a4a02c5d3ec051ce47eb67700dbac75b.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/9ccb94832eeffe32aaf7bffd6b509988.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/08c4bff0f71b5a58429187ae52e3eed3.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/84336/fab6541db7253e796a731052276949a9.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": null,
+          "description": null
+        }
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5cec92142a026b0001285f97",
+          "cci": "5cec92142a026b0001285f98",
+          "lv1Code": "18KW",
+          "lv2Code": "13"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "18KW",
+                "name": "18K白色黃金"
+              },
+              {
+                "code": "18KR",
+                "name": "18K紅色黃金"
+              }
+            ]
+          },
+          "lv2": {
+            "title": "港圍",
+            "subitems": [
+              {
+                "code": "09",
+                "name": "09"
+              },
+              {
+                "code": "13",
+                "name": "13"
+              },
+              {
+                "code": "15",
+                "name": "15"
+              }
+            ]
+          }
+        },
+        "relations": [
+          {
+            "code": "18KR",
+            "subitems": [
+              {
+                "code": "09",
+                "id": {
+                  "cbu": "5cec92142a026b0001285f93",
+                  "cci": "5cec92142a026b0001285f95"
+                }
+              },
+              {
+                "code": "15",
+                "id": {
+                  "cbu": "5cec92142a026b0001285f94",
+                  "cci": "5cec92142a026b0001285f95"
+                }
+              }
+            ]
+          },
+          {
+            "code": "18KW",
+            "subitems": [
+              {
+                "code": "13",
+                "id": {
+                  "cbu": "5cec92142a026b0001285f97",
+                  "cci": "5cec92142a026b0001285f98"
+                }
+              },
+              {
+                "code": "15",
+                "id": {
+                  "cbu": "5cec92142a026b0001285f96",
+                  "cci": "5cec92142a026b0001285f98"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "85660B-18KR-DD": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5ceceb8e2a026b000128602f",
+        "code": "85660B-18KR-DD",
+        "productName1": "V&A",
+        "productName2": "Bless 18K黃金鑽石手鍊",
+        "productName3": "18K/750紅色黃金鑽石手鍊",
+        "docId": null,
+        "productDesc": "V&A 「Bless」系列靈感源自英國維多利亞與艾伯特博物館內14、15世紀的珍藏飾物，利用現代工藝重新演繹。從15世紀開始，英文刻字也很受歡迎，設計師取材於復古設計，並於手鍊吊墜背面精緻地以古英文刻上「+ioe+saunz+fine」，代表著「Joy without end」，祝福這段緣份盛滿無盡的幸福愉悅時光，甜蜜守護心愛的另一半。",
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": "S0459",
+          "description": "Bless"
+        },
+        "usage": {
+          "code": "B",
+          "description": "手鍊"
+        },
+        "productType": {
+          "code": "DF",
+          "description": "固定價鑽石飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "85660",
+        "materialCategory": {
+          "code": "DD",
+          "description": "鑽石"
+        },
+        "goldType": {
+          "code": "18KR",
+          "description": "18K 紅色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5ceceb8e2a026b000128602e",
+            "origPrice": "NT$20,000",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "2,500",
+            "starDollarNTRedeemUp": "NT$10,000",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "V&A 「Bless」系列靈感源自英國維多利亞與艾伯特博物館內14、15世紀的珍藏飾物，利用現代工藝重新演繹。從15世紀開始，英文刻字也很受歡迎，設計師取材於復古設計，並於手鍊吊墜背面精緻地以古英文刻上「+ioe+saunz+fine」，代表著「Joy without end」，祝福這段緣份盛滿無盡的幸福愉悅時光，甜蜜守護心愛的另一半。",
+              "information": [
+                "鑽石, 總克拉重 0.482 克拉",
+                "南洋養殖珍珠, 總克拉重 0.133 克拉"
+              ]
+            },
+            "productType": "DF",
+            "returnable": true,
+            "media": {
+              "sizingImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/4e8657a5f0700649d070b722de606a81.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": null,
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/fbc97d1e3dbc0316e0109fba506c80f7.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/f3bb19e7eb9bb153afca5534f5b0b47f.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/13c2682bdb787ba109e0ae36dcb198ff.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/960ef75cd23c43c239c40735adfee95c.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/811301bb1cb5d203ec389bccc1ac32be.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "resizing": false,
+        "customize": false,
+        "brand": {
+          "code": "VA",
+          "description": "V&A"
+        },
+        "t73": [
+          {
+            "code": null,
+            "descEng": "Non - Plain Chain",
+            "descZhtHK": "非素鍊",
+            "descZhtTW": "非素鍊",
+            "descZhs": "非素炼"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 92,
+            "en_US": "Non - Plain Chain",
+            "zh_CN": "非素链",
+            "zh_HK": "非素鍊",
+            "zh_TW": "非素鍊"
+          }
+        ],
+        "productStyle": {
+          "productStyleGroup": {
+            "id": 1,
+            "groupCode": "SDI",
+            "en_US": "單顆石款",
+            "zh_CN": "单颗石款",
+            "zh_HK": "單顆石款",
+            "zh_TW": "單顆石款"
+          },
+          "productStyleSubGroup": null,
+          "productStyleDisplayGroup": null
+        }
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5ceceb8e2a026b000128602e",
+          "cci": "5ceceb8e2a026b000128602f",
+          "lv1Code": "18KR",
+          "lv2Code": "18"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "18KR",
+                "name": "18K紅色黃金"
+              }
+            ],
+            "sizeGuidePopupUrl": "https://www.chowsangsang.com/eshop-hk/zh_HK/product-size-guide#rings",
+            "sizeGuideImageUrl": "https://www.chowsangsang.com/eshop-hk/zh_HK/product-size-guide.png"
+          },
+          "lv2": {
+            "title": "長度",
+            "subitems": [
+              {
+                "code": "18",
+                "name": "18 公分"
+              }
+            ],
+            "sizeGuidePopupUrl": "https://www.chowsangsang.com/eshop-hk/zh_HK/product-size-guide#rings",
+            "sizeGuideImageUrl": "https://www.chowsangsang.com/eshop-hk/zh_HK/product-size-guide.png"
+          }
+        },
+        "relations": [
+          {
+            "code": "18KR",
+            "subitems": [
+              {
+                "code": "18",
+                "id": {
+                  "cbu": "5ceceb8e2a026b000128602e",
+                  "cci": "5ceceb8e2a026b000128602f"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "shippingFeePromotionalMessage": "免費香港本地送貨"
+    }
+  },
+  "18KR-DD-2": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5ceceb8e2a026b000128602f",
+        "code": "85660B-18KR-DD",
+        "productName1": "V&A",
+        "productName2": "Bless 18K黃金鑽石手鍊",
+        "productName3": "18K/750紅色黃金鑽石手鍊",
+        "docId": null,
+        "productDesc": "V&A 「Bless」系列靈感源自英國維多利亞與艾伯特博物館內14、15世紀的珍藏飾物，利用現代工藝重新演繹。從15世紀開始，英文刻字也很受歡迎，設計師取材於復古設計，並於手鍊吊墜背面精緻地以古英文刻上「+ioe+saunz+fine」，代表著「Joy without end」，祝福這段緣份盛滿無盡的幸福愉悅時光，甜蜜守護心愛的另一半。",
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": "S0459",
+          "description": "Bless"
+        },
+        "usage": {
+          "code": "B",
+          "description": "手鍊"
+        },
+        "productType": {
+          "code": "DF",
+          "description": "固定價鑽石飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "85660",
+        "materialCategory": {
+          "code": "DD",
+          "description": "鑽石"
+        },
+        "goldType": {
+          "code": "18KR",
+          "description": "18K 紅色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5ceceb8e2a026b000128602e",
+            "origPrice": "NT$20,000",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "2,500",
+            "starDollarNTRedeemUp": "NT$10,000",
+            "quantity": 7,
+            "earmarkQuantity": 6,
+            "detail": {
+              "description": "V&A 「Bless」系列靈感源自英國維多利亞與艾伯特博物館內14、15世紀的珍藏飾物，利用現代工藝重新演繹。從15世紀開始，英文刻字也很受歡迎，設計師取材於復古設計，並於手鍊吊墜背面精緻地以古英文刻上「+ioe+saunz+fine」，代表著「Joy without end」，祝福這段緣份盛滿無盡的幸福愉悅時光，甜蜜守護心愛的另一半。",
+              "information": [
+                "鑽石, 總克拉重 0.482 克拉",
+                "南洋養殖珍珠, 總克拉重 0.133 克拉"
+              ]
+            },
+            "productType": "DF",
+            "returnable": true,
+            "media": {
+              "sizingImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/4e8657a5f0700649d070b722de606a81.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": null,
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/fbc97d1e3dbc0316e0109fba506c80f7.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/f3bb19e7eb9bb153afca5534f5b0b47f.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/13c2682bdb787ba109e0ae36dcb198ff.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/960ef75cd23c43c239c40735adfee95c.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/811301bb1cb5d203ec389bccc1ac32be.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "resizing": false,
+        "customeriza": true,
+        "productTag": "新季產品 | 熱賣",
+        "brand": {
+          "code": "VA",
+          "description": "V&A"
+        },
+        "t73": [
+          {
+            "code": null,
+            "descEng": "Non - Plain Chain",
+            "descZhtHK": "非素鍊",
+            "descZhtTW": "非素鍊",
+            "descZhs": "非素炼"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 92,
+            "en_US": "Non - Plain Chain",
+            "zh_CN": "非素链",
+            "zh_HK": "非素鍊",
+            "zh_TW": "非素鍊"
+          }
+        ],
+        "productStyle": {
+          "productStyleGroup": {
+            "id": 1,
+            "groupCode": "SDI",
+            "en_US": "單顆石款",
+            "zh_CN": "单颗石款",
+            "zh_HK": "單顆石款",
+            "zh_TW": "單顆石款"
+          },
+          "productStyleSubGroup": null,
+          "productStyleDisplayGroup": null
+        }
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5ceceb8e2a026b000128602e",
+          "cci": "5ceceb8e2a026b000128602f",
+          "lv1Code": "18KR",
+          "lv2Code": "18"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "18KR",
+                "name": "18K紅色黃金"
+              }
+            ]
+          },
+          "lv2": {
+            "title": "長度",
+            "subitems": [
+              {
+                "code": "18",
+                "name": "18 公分"
+              }
+            ],
+            "sizeGuideAnchor": "#guide-rings",
+            "sizeGuideMessage": "圈度指南"
+          },
+          "shippingFeePromotionalMessage": "免費香港本地送貨",
+          "prevCode": "85659B-18KR-DD",
+          "nextCode": "85661B-18KR-DD",
+          "category": "JEWELLERY",
+          "page": "3",
+          "rowNumber": "60",
+          "criteriaCode": "COLLECTION:FM",
+          "maxPrice": "999999",
+          "minPrice": "999",
+          "sortBy": "onlineFrom",
+          "sortDesc": "desc"
+        },
+        "relations": [
+          {
+            "code": "18KR",
+            "subitems": [
+              {
+                "code": "18",
+                "id": {
+                  "cbu": "5ceceb8e2a026b000128602e",
+                  "cci": "5ceceb8e2a026b000128602f"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "countriesList": [
+    {
+      "countryIsoCode": "AE",
+      "nameEng": "United Arab Emirates",
+      "name": "阿聯"
+    },
+    {
+      "countryIsoCode": "HK",
+      "nameEng": "Hong Kong",
+      "name": "香港"
+    },
+    {
+      "countryIsoCode": "AT",
+      "nameEng": "Austria",
+      "name": "奧地利"
+    },
+    {
+      "countryIsoCode": "AU",
+      "nameEng": "Australia",
+      "name": "澳大利亞"
+    },
+    {
+      "countryIsoCode": "BE",
+      "nameEng": "Belgium",
+      "name": "比利時"
+    },
+    {
+      "countryIsoCode": "BN",
+      "nameEng": "Brunei",
+      "name": "汶萊"
+    },
+    {
+      "countryIsoCode": "CA",
+      "nameEng": "Canada",
+      "name": "加拿大"
+    },
+    {
+      "countryIsoCode": "CN",
+      "nameEng": "China",
+      "name": "中國大陸"
+    },
+    {
+      "countryIsoCode": "CH",
+      "nameEng": "Switzerland",
+      "name": "瑞士"
+    },
+    {
+      "countryIsoCode": "CY",
+      "nameEng": "Cyprus",
+      "name": "賽普勒斯"
+    },
+    {
+      "countryIsoCode": "DE",
+      "nameEng": "Germany",
+      "name": "德國"
+    },
+    {
+      "countryIsoCode": "DK",
+      "nameEng": "Denmark",
+      "name": "丹麥"
+    },
+    {
+      "countryIsoCode": "ES",
+      "nameEng": "Spain",
+      "name": "西班牙"
+    },
+    {
+      "countryIsoCode": "FI",
+      "nameEng": "Finland",
+      "name": "芬蘭"
+    },
+    {
+      "countryIsoCode": "FR",
+      "nameEng": "France",
+      "name": "法國"
+    },
+    {
+      "countryIsoCode": "GB",
+      "nameEng": "United Kingdom",
+      "name": "英國"
+    },
+    {
+      "countryIsoCode": "GR",
+      "nameEng": "Greece",
+      "name": "希臘"
+    },
+    {
+      "countryIsoCode": "HU",
+      "nameEng": "Hungary",
+      "name": "匈牙利"
+    },
+    {
+      "countryIsoCode": "ID",
+      "nameEng": "Indonesia",
+      "name": "印尼"
+    },
+    {
+      "countryIsoCode": "IE",
+      "nameEng": "Ireland",
+      "name": "愛爾蘭"
+    },
+    {
+      "countryIsoCode": "IT",
+      "nameEng": "Italy",
+      "name": "義大利"
+    },
+    {
+      "countryIsoCode": "JP",
+      "nameEng": "Japan",
+      "name": "日本"
+    },
+    {
+      "countryIsoCode": "KR",
+      "nameEng": "South Korea",
+      "name": "韓國"
+    },
+    {
+      "countryIsoCode": "LK",
+      "nameEng": "Sri Lanka",
+      "name": "斯里蘭卡"
+    },
+    {
+      "countryIsoCode": "LT",
+      "nameEng": "Lithuania",
+      "name": "立陶宛"
+    },
+    {
+      "countryIsoCode": "LU",
+      "nameEng": "Luxembourg",
+      "name": "盧森堡"
+    },
+    {
+      "countryIsoCode": "LV",
+      "nameEng": "Latvia",
+      "name": "拉脫維亞"
+    },
+    {
+      "countryIsoCode": "MO",
+      "nameEng": "Macau",
+      "name": "澳門"
+    },
+    {
+      "countryIsoCode": "MY",
+      "nameEng": "Malaysia",
+      "name": "馬來西亞"
+    },
+    {
+      "countryIsoCode": "NL",
+      "nameEng": "Netherlands",
+      "name": "荷蘭"
+    },
+    {
+      "countryIsoCode": "NO",
+      "nameEng": "Norway",
+      "name": "挪威"
+    },
+    {
+      "countryIsoCode": "NZ",
+      "nameEng": "New Zealand",
+      "name": "紐西蘭"
+    },
+    {
+      "countryIsoCode": "PH",
+      "nameEng": "Philippines",
+      "name": "菲律賓"
+    },
+    {
+      "countryIsoCode": "PL",
+      "nameEng": "Poland",
+      "name": "波蘭"
+    },
+    {
+      "countryIsoCode": "PR",
+      "nameEng": "Puerto Rico",
+      "name": "波多黎各"
+    },
+    {
+      "countryIsoCode": "PT",
+      "nameEng": "Portugal",
+      "name": "葡萄牙"
+    },
+    {
+      "countryIsoCode": "SC",
+      "nameEng": "Scotland",
+      "name": "蘇格蘭"
+    },
+    {
+      "countryIsoCode": "SE",
+      "nameEng": "Sweden",
+      "name": "瑞典"
+    },
+    {
+      "countryIsoCode": "SG",
+      "nameEng": "Singapore",
+      "name": "新加坡"
+    },
+    {
+      "countryIsoCode": "SI",
+      "nameEng": "Slovenia",
+      "name": "斯洛維尼亞"
+    },
+    {
+      "countryIsoCode": "SK",
+      "nameEng": "Slovakia",
+      "name": "斯洛伐克"
+    },
+    {
+      "countryIsoCode": "TH",
+      "nameEng": "Thailand",
+      "name": "泰國"
+    },
+    {
+      "countryIsoCode": "TR",
+      "nameEng": "Turkey",
+      "name": "土耳其"
+    },
+    {
+      "countryIsoCode": "US",
+      "nameEng": "United States",
+      "name": "美國"
+    },
+    {
+      "countryIsoCode": "VG",
+      "nameEng": "Virgin Islands (British)",
+      "name": "英屬維京群島"
+    },
+    {
+      "countryIsoCode": "VT",
+      "nameEng": "Vietnam",
+      "name": "越南"
+    }
+  ],
+  "countryDetailInfo": {
+    "countryIsoCode": "US",
+    "iso3166": "US",
+    "nameEng": "United States",
+    "name": "美國",
+    "deliveryDate": "3 － 5 工作天",
+    "shippingFee": "290",
+    "handlingChargeRate": 0.02,
+    "minCharge": 7,
+    "minHandleChargeCurrency": "USD/USD$",
+    "existingTotalEstimatedDutiesAndTax": "5.5%",
+    "adjustRate": 0.02,
+    "remark": "**訂單總額低於美元$800不會產生稅項 <br/><i>(**美國海關保留最終決定權)</i>"
+  },
+  "85660B-18KR-DD-0822": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5ceceb8e2a026b000128602f",
+        "code": "85660B-18KR-DD",
+        "productName1": "V&A",
+        "productName2": "Bless 18K黃金鑽石手鍊",
+        "productName3": "18K/750紅色黃金鑽石手鍊",
+        "docId": null,
+        "productDesc": "V&A 「Bless」系列靈感源自英國維多利亞與艾伯特博物館內14、15世紀的珍藏飾物，利用現代工藝重新演繹。從15世紀開始，英文刻字也很受歡迎，設計師取材於復古設計，並於手鍊吊墜背面精緻地以古英文刻上「+ioe+saunz+fine」，代表著「Joy without end」，祝福這段緣份盛滿無盡的幸福愉悅時光，甜蜜守護心愛的另一半。",
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": "S0459",
+          "description": "Bless"
+        },
+        "usage": {
+          "code": "B",
+          "description": "手鍊"
+        },
+        "productType": {
+          "code": "DF",
+          "description": "固定價鑽石飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "85660",
+        "materialCategory": {
+          "code": "DD",
+          "description": "鑽石"
+        },
+        "goldType": {
+          "code": "18KR",
+          "description": "18K 紅色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5ceceb8e2a026b000128602e",
+            "origPrice": "NT$20,000",
+            "starDollarEarnRate": "5%",
+            "starDollarRedeemUp": "2,500",
+            "starDollarNTRedeemUp": "NT$10,000",
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "V&A 「Bless」系列靈感源自英國維多利亞與艾伯特博物館內14、15世紀的珍藏飾物，利用現代工藝重新演繹。從15世紀開始，英文刻字也很受歡迎，設計師取材於復古設計，並於手鍊吊墜背面精緻地以古英文刻上「+ioe+saunz+fine」，代表著「Joy without end」，祝福這段緣份盛滿無盡的幸福愉悅時光，甜蜜守護心愛的另一半。",
+              "information": [
+                "鑽石, 總克拉重 0.482 克拉",
+                "南洋養殖珍珠, 總克拉重 0.133 克拉"
+              ]
+            },
+            "productType": "DF",
+            "returnable": true,
+            "media": {
+              "sizingImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/4e8657a5f0700649d070b722de606a81.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": null,
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/fbc97d1e3dbc0316e0109fba506c80f7.jpg",
+                  "zoomOutUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/f3bb19e7eb9bb153afca5534f5b0b47f.jpg",
+                  "displayUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/13c2682bdb787ba109e0ae36dcb198ff.jpg",
+                  "listUrl": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/960ef75cd23c43c239c40735adfee95c.jpg",
+                  "miniCartImage": "//cdn.chowsangsang.com/dfs/ivCssModelImages/85660/811301bb1cb5d203ec389bccc1ac32be.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "resizing": false,
+        "customeriza": false,
+        "brand": {
+          "code": "VA",
+          "description": "V&A"
+        },
+        "t73": [
+          {
+            "code": null,
+            "descEng": "Non - Plain Chain",
+            "descZhtHK": "非素鍊",
+            "descZhtTW": "非素鍊",
+            "descZhs": "非素炼"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 92,
+            "en_US": "Non - Plain Chain",
+            "zh_CN": "非素链",
+            "zh_HK": "非素鍊",
+            "zh_TW": "非素鍊"
+          }
+        ],
+        "productStyle": {
+          "productStyleGroup": {
+            "id": 1,
+            "groupCode": "SDI",
+            "en_US": "單顆石款",
+            "zh_CN": "单颗石款",
+            "zh_HK": "單顆石款",
+            "zh_TW": "單顆石款"
+          },
+          "productStyleSubGroup": null,
+          "productStyleDisplayGroup": null
+        }
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5ceceb8e2a026b000128602e",
+          "cci": "5ceceb8e2a026b000128602f",
+          "lv1Code": "18KR",
+          "lv2Code": "18"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "18KR",
+                "name": "18K紅色黃金"
+              }
+            ]
+          },
+          "lv2": {
+            "title": "長度",
+            "subitems": [
+              {
+                "code": "18",
+                "name": "18 公分"
+              }
+            ],
+            "sizeGuideAnchor": "#guide-rings",
+            "sizeGuideMessage": "圈度指南"
+          },
+          "prevCode": "85659B-18KR-DD",
+          "nextCode": "85661B-18KR-DD"
+        },
+        "relations": [
+          {
+            "code": "18KR",
+            "subitems": [
+              {
+                "code": "18",
+                "id": {
+                  "cbu": "5ceceb8e2a026b000128602e",
+                  "cci": "5ceceb8e2a026b000128602f"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "browsingHistory": {
+    "createDate": "2019-08-28T12:07:39.224",
+    "browsingHistoryItems": [
+      {
+        "itemId": "5d666e8b722a8500015e57ae",
+        "createDate": "2019-08-28T12:07:39.224",
+        "channelCatalogItem": {
+          "origPrice": 36325,
+          "price": 36325,
+          "productDetailUrl": "/productDetail/85908R-18WB-AD",
+          "images": [
+            {
+              "type": "I",
+              "seq": 1,
+              "url": "//cdn.chowsangsang.com/fd56divCss53c15b7040e8cd75e337.jpg"
+            },
+            {
+              "type": "I",
+              "seq": 2,
+              "url": "//cdn.chowsangsang.com/4a043d8ddbc70da08728421e804dfe.jpg"
+            }
+          ],
+          "prodname1": "Fingers Play",
+          "prodname2": "999.9黃金頸鍊"
+        }
+      }
+    ]
+  },
+  "myBag": {
+    "cartId": "5d2dc5d2506822000167621c",
+    "createDate": "2019-07-17T03:54:10.09",
+    "subtotalAmount": "NT$5,700",
+    "quantity": 1,
+    "totalAmount": "NT$5,700",
+    "couponCode": null,
+    "couponAmount": null,
+    "estimatedDeliveryDate": null,
+    "useStarDollar": true,
+    "cartItems": [
+      {
+        "itemId": "5d2e9bdc5068220001676220",
+        "cbu": "5d11d51153e97b00017015ce",
+        "quantity": 1,
+        "discountName": "尊尚會員優惠",
+        "amount": "NT$4,300",
+        "discountCode": null,
+        "createDate": "2019-07-17T03:54:10.09",
+        "accessoryModelSequenceNumber": "501",
+        "accessoryAmount": "NT$0",
+        "charmeCordIndicator": true,
+        "starDollars": null,
+        "information": {
+          "channelCatalogItemId": "5d11d51153e97b00017015cf",
+          "code": "82543C-24GG",
+          "origPrice": "NT$5,300",
+          "accessoryOrigPrice": "NT$400",
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/82543/b155d4af06fe0620e3cf086f80c3d3cf.jpg",
+          "productDetailUrl": "/productDetail/JEWELLERY-BYCATEGORY-CHARME/Charme「234」足金串飾/82543C-24GG",
+          "data": [
+            {
+              "name": "材質",
+              "value": "黑鑽石"
+            },
+            {
+              "name": "圈度",
+              "value": "16"
+            }
+          ],
+          "options": [
+            {
+              "name": "附送 金屬(磁石)扣繩",
+              "value": "深啡 (皮質), 17公分",
+              "type": "BRACELET"
+            }
+          ],
+          "discounts": [
+            {
+              "discountName": "尊尚會員優惠",
+              "checked": true,
+              "type": "MEMBER_DISCOUNT"
+            },
+            {
+              "discountName": "40 悅享錢",
+              "checked": false,
+              "type": "STARDOLLAR"
+            }
+          ],
+          "prodname1": "MANON",
+          "prodname2": "黑鑽石手鍊",
+          "returnable": true
+        }
+      },
+      {
+        "itemId": "5d2e9bdc5068220001676220",
+        "cbu": "5d11d51153e97b00017015ce",
+        "quantity": 1,
+        "discountName": "尊尚會員優惠",
+        "amount": "NT$4,300",
+        "discountCode": null,
+        "createDate": "2019-07-17T03:54:10.09",
+        "accessoryModelSequenceNumber": null,
+        "accessoryAmount": "NT$0",
+        "charmeCordIndicator": true,
+        "starDollars": null,
+        "information": {
+          "channelCatalogItemId": "5d11d51153e97b00017015cf",
+          "code": "82543C-24GG",
+          "origPrice": "NT$5,300",
+          "accessoryOrigPrice": "NT$400",
+          "imageUrl": "//cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/82543/b155d4af06fe0620e3cf086f80c3d3cf.jpg",
+          "productDetailUrl": "/productDetail/JEWELLERY-BYCATEGORY-CHARME/Charme「234」足金串飾/82543C-24GG",
+          "data": [
+            {
+              "name": "材質",
+              "value": "足金"
+            },
+            {
+              "name": "重量",
+              "value": "6.1兩"
+            },
+            {
+              "name": "戒圍",
+              "value": "11"
+            }
+          ],
+          "options": [],
+          "discounts": [
+            {
+              "discountName": "尊尚會員優惠",
+              "checked": false,
+              "type": "MEMBER_DISCOUNT"
+            },
+            {
+              "discountName": "40 悅享錢",
+              "checked": true,
+              "type": "STARDOLLAR"
+            }
+          ],
+          "prodname1": "MANON",
+          "prodname2": "黑鑽石戒指",
+          "returnable": true
+        }
+      }
+    ],
+    "starDollarInformation": {
+      "usableStarDollar": 800,
+      "starDollarList": [
+        {
+          "expired": "截至2019年09月30日",
+          "usableStarDollarByExpiredDate": 40
+        },
+        {
+          "expired": "截至2019年12月31日",
+          "usableStarDollarByExpiredDate": 10
+        }
+      ]
+    },
+    "shippingFee": "NT$0",
+    "shippingFeeDiscount": null,
+    "estimatedDutyTax": "400"
+  },
+  "addresses": {
+    "_embedded": {
+      "addresses": [
+        {
+          "id": "2503",
+          "type": "S",
+          "country": "台灣",
+          "countryCode": "TW",
+          "city": "大同區",
+          "address1": "九龍九龍灣",
+          "postCode": "852",
+          "defaultIndicator": "N",
+          "province": "臺北市",
+          "lastModifyDate": "2018-12-13 14:27:47",
+          "lastModifyEmployeeNumber": "SYS",
+          "address2": null,
+          "rcptSl": "01",
+          "rcptFirstNam": "kimooo",
+          "rcptLastNam": "li",
+          "rcptMobCtryCde": "886",
+          "rcptMobNbr": "3067788",
+          "giftFor": "CHD"
+        },
+        {
+          "id": "2504",
+          "type": "S",
+          "country": "香港",
+          "countryCode": "HK",
+          "city": "大安區",
+          "address1": "九龍九龍灣",
+          "postCode": "852",
+          "defaultIndicator": "N",
+          "province": "臺北市",
+          "lastModifyDate": "2018-12-13 14:27:47",
+          "lastModifyEmployeeNumber": "SYS",
+          "address2": "臨興街21號",
+          "rcptSl": "01",
+          "rcptFirstNam": "kimooo",
+          "rcptLastNam": "li",
+          "rcptMobCtryCde": "886",
+          "rcptMobNbr": "3067788",
+          "giftFor": "CHD"
+        }
+      ]
+    },
+    "rcptMobCtryCde": "+852",
+    "rcptMobNbr": "0911220536",
+    "rcptSl": "01",
+    "rcptFirstNam": "buckaroo banzai",
+    "rcptLastNam": "",
+    "address2": "",
+    "address1": "banzai street",
+    "postCode": "3693",
+    "province": "新界區AA",
+    "city": "元朗區",
+    "type": "S",
+    "country": "HK"
+  },
+  "deliveries": {
+    "region": "TW",
+    "regionName": "臺灣",
+    "items": [
+      {
+        "name": "臺北市",
+        "subitems": [
+          {
+            "name": "中正區"
+          },
+          {
+            "name": "大同區"
+          }
+        ]
+      },
+      {
+        "name": "新北市",
+        "subitems": [
+          {
+            "name": "板橋區",
+            "subitems": [
+              {
+                "name": "625"
+              },
+              {
+                "name": "628"
+              }
+            ]
+          },
+          {
+            "name": "新莊區"
+          }
+        ]
+      }
+    ]
+  },
+  "stores": [
+    {
+      "districtName": "新界區AA",
+      "subDistricts": [
+        {
+          "subDistrictName": "元朗區",
+          "stores": [
+            {
+              "storeId": "109",
+              "displayName": "109 元行",
+              "address": "香港新界區元朗青山公路87號地下",
+              "telephoneNumber": "+852 2476 2556,+852 2478 3351",
+              "givenName": "周生生元朗青山公路87號店",
+              "operatingHour": "09:30-20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "districtName": "新界區BB",
+      "subDistricts": [
+        {
+          "subDistrictName": "元朗區CC",
+          "stores": [
+            {
+              "storeId": "109",
+              "displayName": "109 元行",
+              "address": "香港新界區元朗青山公路87號地下",
+              "telephoneNumber": "+852 2476 2556,+852 2478 3351",
+              "givenName": "周生生元朗青山公路87號店",
+              "operatingHour": "09:30-20:00"
+            }
+          ]
+        },
+        {
+          "subDistrictName": "元朗區DD",
+          "stores": [
+            {
+              "storeId": "109",
+              "displayName": "109 元行",
+              "address": "香港新界區元朗青山公路87號地下",
+              "telephoneNumber": "+852 2476 2556,+852 2478 3351",
+              "givenName": "周生生元朗青山公路87號店",
+              "operatingHour": "09:30-20:00"
+            },
+            {
+              "storeId": "110",
+              "displayName": "110 元行B",
+              "address": "香港新界區元朗青山公路87號地下",
+              "telephoneNumber": "+852 2476 2556,+852 2478 3351",
+              "givenName": "周生生元朗青山公路87號店",
+              "operatingHour": "09:30-20:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "miniCart": {
+    "cartId": "5b8f2f8e849f4030642e94ac",
+    "estimatedDeliveryDate": "2018-12-31 00:00:00",
+    "shippingFee": "HK$100",
+    "createDate": "2018-01-01T01:21:18.316",
+    "subtotalAmount": "HK$1,870",
+    "quantity": 1,
+    "totalAmount": "HK$1,870",
+    "couponCode": "1234ABCD",
+    "couponAmount": "HK$1,000",
+    "cartItems": [
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "cbu": "10339389270",
+        "quantity": 1,
+        "amount": "HK$1,870",
+        "discountCode": "A1",
+        "discountName": "尊尚會員優惠",
+        "createDate": "2018-01-01T01:21:18.316",
+        "nonStockModelId": "5b8f2f8e849f4030642e94ac",
+        "cordColore": "深啡",
+        "cordMateriale": "皮質",
+        "cordThicknesse": "3毫米",
+        "cordLengthe": "15厘米",
+        "cordType": "手繩",
+        "starDollars": [
+          {
+            "starDollarProgramId": 7,
+            "type": "PS",
+            "starDollarAmount": 400,
+            "starDollarProgramType": "P",
+            "expiredDate": "2018-12-31 00:00:00"
+          }
+        ],
+        "information": {
+          "prodname1": "g* 系列",
+          "prodname2": "999.9 黃金玉髓吊墜",
+          "docId": "86705P-GD",
+          "origPrice": "HK$1,870",
+          "imageUrl": "http://cdn.chowsangsang.com/dam/PROD/HK/47162B/74204ad7-8452-49b8-b2e9-71f70f86c425-1.jpg?v=1531231838000",
+          "data": [
+            {
+              "name": "材質",
+              "value": "18K紅色黃金"
+            },
+            {
+              "name": "長度",
+              "value": "47 厘米"
+            }
+          ],
+          "options": [
+            {
+              "name": "附送 手繩",
+              "value": "紅桑子 (纖維材質), 17厘米",
+              "type": "bracelet"
+            }
+          ]
+        }
+      },
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "cbu": "10339389270",
+        "quantity": 1,
+        "amount": "HK$1,870",
+        "discountCode": "A1",
+        "discountName": "尊尚會員優惠",
+        "createDate": "2018-01-01T01:21:18.316",
+        "nonStockModelId": "5b8f2f8e849f4030642e94ac",
+        "cordColore": "深啡",
+        "cordMateriale": "皮質",
+        "cordThicknesse": "3毫米",
+        "cordLengthe": "15厘米",
+        "cordType": "手繩",
+        "starDollars": [
+          {
+            "starDollarProgramId": 7,
+            "type": "PS",
+            "starDollarAmount": 400,
+            "starDollarProgramType": "P",
+            "expiredDate": "2018-12-31 00:00:00"
+          }
+        ],
+        "information": {
+          "prodname1": "g* 系列",
+          "prodname2": "999.9 黃金玉髓吊墜",
+          "docId": "86705P-GD",
+          "origPrice": "HK$1,870",
+          "imageUrl": "http://cdn.chowsangsang.com/dam/PROD/HK/47162B/74204ad7-8452-49b8-b2e9-71f70f86c425-1.jpg?v=1531231838000",
+          "data": [
+            {
+              "name": "材質",
+              "value": "18K紅色黃金"
+            },
+            {
+              "name": "長度",
+              "value": "47 厘米"
+            }
+          ],
+          "options": [
+            {
+              "name": "附送 手繩",
+              "value": "紅桑子 (纖維材質), 17厘米",
+              "type": "bracelet"
+            }
+          ]
+        }
+      },
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "cbu": "10339389270",
+        "quantity": 1,
+        "amount": "HK$1,870",
+        "discountCode": "A1",
+        "discountName": "尊尚會員優惠",
+        "createDate": "2018-01-01T01:21:18.316",
+        "nonStockModelId": "5b8f2f8e849f4030642e94ac",
+        "cordColore": "深啡",
+        "cordMateriale": "皮質",
+        "cordThicknesse": "3毫米",
+        "cordLengthe": "15厘米",
+        "cordType": "手繩",
+        "starDollars": [
+          {
+            "starDollarProgramId": 7,
+            "type": "PS",
+            "starDollarAmount": 400,
+            "starDollarProgramType": "P",
+            "expiredDate": "2018-12-31 00:00:00"
+          }
+        ],
+        "information": {
+          "prodname1": "g* 系列",
+          "prodname2": "999.9 黃金玉髓吊墜",
+          "docId": "86705P-GD",
+          "origPrice": "HK$1,870",
+          "imageUrl": "http://cdn.chowsangsang.com/dam/PROD/HK/47162B/74204ad7-8452-49b8-b2e9-71f70f86c425-1.jpg?v=1531231838000",
+          "data": [
+            {
+              "name": "材質",
+              "value": "18K紅色黃金"
+            },
+            {
+              "name": "長度",
+              "value": "47 厘米"
+            }
+          ],
+          "options": [
+            {
+              "name": "附送 手繩",
+              "value": "紅桑子 (纖維材質), 17厘米",
+              "type": "bracelet"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "miniCart-90754R-18KW-QJ": {
+    "cartId": "5d92b1086c1d830001d862cd",
+    "createDate": "2019-10-01T02:20:48.792",
+    "subtotalAmount": "HK$14,500",
+    "quantity": 5,
+    "totalAmount": "HK$14,500",
+    "couponCode": null,
+    "couponAmount": null,
+    "estimatedDeliveryDate": null,
+    "useStarDollar": null,
+    "cartItems": [
+      {
+        "itemId": "5d92b1086c1d830001d862cc",
+        "cbu": "5d80d63313e60e00019411f1",
+        "quantity": 1,
+        "amount": "HK$1,900",
+        "discountCode": "",
+        "discountName": "",
+        "createDate": null,
+        "accessoryModelSequenceNumber": null,
+        "cordColor": null,
+        "cordMaterial": null,
+        "cordThickness": null,
+        "cordLength": null,
+        "cordType": null,
+        "starDollars": [],
+        "information": {
+          "channelCatalogItemId": "5d80c2091b3691d509ee4f7c",
+          "code": "90754R-18KW-QJ",
+          "origPrice": "HK$2,900",
+          "imageUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/44aacc26b80d09543d087d16425d6dc7.jpg",
+          "productDetailUrl": "/productDetail/90754R-18KW-QJ",
+          "data": [
+            {
+              "name": "材質",
+              "value": "18K白色黃金"
+            },
+            {
+              "name": "圈度",
+              "value": "13"
+            }
+          ],
+          "options": [],
+          "discounts": [],
+          "prodname1": "EMPHASIS",
+          "prodname2": "「Cosmos」18K黃金石英-硬玉戒指"
+        },
+        "option": null
+      },
+      {
+        "itemId": "5d92b1086c1d830001d862cc",
+        "cbu": "5d80d63313e60e00019411f1",
+        "quantity": 1,
+        "amount": "HK$2,900",
+        "discountCode": "",
+        "discountName": "",
+        "createDate": null,
+        "accessoryModelSequenceNumber": null,
+        "cordColor": null,
+        "cordMaterial": null,
+        "cordThickness": null,
+        "cordLength": null,
+        "cordType": null,
+        "starDollars": [],
+        "information": {
+          "channelCatalogItemId": "5d80c2091b3691d509ee4f7c",
+          "code": "90754R-18KW-QJ",
+          "origPrice": "HK$2,900",
+          "imageUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/44aacc26b80d09543d087d16425d6dc7.jpg",
+          "productDetailUrl": "/productDetail/90754R-18KW-QJ",
+          "data": [
+            {
+              "name": "材質",
+              "value": "18K白色黃金"
+            },
+            {
+              "name": "圈度",
+              "value": "13"
+            }
+          ],
+          "options": [],
+          "discounts": [],
+          "prodname1": "EMPHASIS",
+          "prodname2": "「Cosmos」18K黃金石英-硬玉戒指"
+        },
+        "option": null
+      }
+    ],
+    "starDollarInformation": {
+      "usableStarDollar": 0,
+      "starDollarList": []
+    },
+    "estimatedDutyTax": "400",
+    "shippingFee": null,
+    "shippingFeeDiscount": null
+  },
+  "customerInfo": {
+    "customer": {
+      "firstName": "東益",
+      "familyName": "李",
+      "preferenceLanguage": "ZHS",
+      "residenceCity": null,
+      "email": "kimo_li@emphasis.com.tw",
+      "emailState": "I",
+      "salute": "02",
+      "mobileCountryCode": "886",
+      "mobileNumber": "909866393",
+      "memberClass": "02"
+    },
+    "starDollarBalance": {
+      "usableStarDollar": 1400,
+      "availableStarDollar": 1400,
+      "expiredStarDollar": 10347
+    }
+  },
+  "login": {
+    "request method": {
+      "status": 201,
+      "header": {
+        "header name": "header value"
+      },
+      "body": {
+        "json": "body content"
+      }
+    }
+  },
+  "region": [
+    {
+      "code": "HK",
+      "name": "香港"
+    },
+    {
+      "code": "TW",
+      "name": "台灣"
+    },
+    {
+      "code": "CN",
+      "name": "中國大陸"
+    }
+  ],
+  "US": {
+    "region": "US",
+    "regionName": "美國",
+    "items": [
+      {
+        "name": "Alabama"
+      },
+      {
+        "name": "Alaska"
+      }
+    ]
+  },
+  "HK": {
+    "region": "HK",
+    "regionName": "香港",
+    "items": [
+      {
+        "name": "銅鑼灣",
+        "subitems": [
+          {
+            "name": "北京市",
+            "postalCode": "11111"
+          },
+          {
+            "name": "T京市",
+            "postalCode": "11112"
+          }
+        ]
+      }
+    ]
+  },
+  "CN": {
+    "region": "CN",
+    "regionName": "中國",
+    "items": [
+      {
+        "name": "北京",
+        "subitems": [
+          {
+            "name": "北京市"
+          }
+        ]
+      },
+      {
+        "name": "天津",
+        "subitems": [
+          {
+            "name": "天津市"
+          }
+        ]
+      },
+      {
+        "name": "上海",
+        "subitems": [
+          {
+            "name": "上海市"
+          }
+        ]
+      },
+      {
+        "name": "重慶",
+        "subitems": [
+          {
+            "name": "重慶市"
+          }
+        ]
+      },
+      {
+        "name": "河北省",
+        "subitems": [
+          {
+            "name": "保定市"
+          },
+          {
+            "name": "滄州市"
+          },
+          {
+            "name": "承德市"
+          },
+          {
+            "name": "邯鄲市"
+          },
+          {
+            "name": "衡水市"
+          },
+          {
+            "name": "廊坊市"
+          },
+          {
+            "name": "秦皇島市"
+          },
+          {
+            "name": "石家莊市"
+          },
+          {
+            "name": "唐山市"
+          },
+          {
+            "name": "邢台市"
+          },
+          {
+            "name": "張家口市"
+          }
+        ]
+      },
+      {
+        "name": "山西省",
+        "subitems": [
+          {
+            "name": "大同市"
+          },
+          {
+            "name": "晉城市"
+          },
+          {
+            "name": "晉中市"
+          },
+          {
+            "name": "臨汾市"
+          },
+          {
+            "name": "呂梁市"
+          },
+          {
+            "name": "朔州市"
+          },
+          {
+            "name": "太原市"
+          },
+          {
+            "name": "忻州市"
+          },
+          {
+            "name": "陽泉市"
+          },
+          {
+            "name": "運城市"
+          },
+          {
+            "name": "長治市"
+          }
+        ]
+      },
+      {
+        "name": "遼寧省",
+        "subitems": [
+          {
+            "name": "鞍山市"
+          },
+          {
+            "name": "本溪市"
+          },
+          {
+            "name": "朝陽市"
+          },
+          {
+            "name": "大連市"
+          },
+          {
+            "name": "丹東市"
+          },
+          {
+            "name": "撫順市"
+          },
+          {
+            "name": "阜新市"
+          },
+          {
+            "name": "葫蘆島市"
+          },
+          {
+            "name": "錦州市"
+          },
+          {
+            "name": "遼陽市"
+          },
+          {
+            "name": "盤錦市"
+          },
+          {
+            "name": "瀋陽市"
+          },
+          {
+            "name": "鐵嶺市"
+          },
+          {
+            "name": "營口市"
+          }
+        ]
+      },
+      {
+        "name": "吉林省",
+        "subitems": [
+          {
+            "name": "白城市"
+          },
+          {
+            "name": "白山市"
+          },
+          {
+            "name": "吉林市"
+          },
+          {
+            "name": "遼源市"
+          },
+          {
+            "name": "四平市"
+          },
+          {
+            "name": "松原市"
+          },
+          {
+            "name": "通化市"
+          },
+          {
+            "name": "延邊朝鮮族自治州"
+          },
+          {
+            "name": "長春市"
+          }
+        ]
+      },
+      {
+        "name": "黑龍江省",
+        "subitems": [
+          {
+            "name": "大慶市"
+          },
+          {
+            "name": "大興安嶺地區"
+          },
+          {
+            "name": "哈爾濱市"
+          },
+          {
+            "name": "鶴崗市"
+          },
+          {
+            "name": "黑河市"
+          },
+          {
+            "name": "雞西市"
+          },
+          {
+            "name": "佳木斯市"
+          },
+          {
+            "name": "牡丹江市"
+          },
+          {
+            "name": "七台河市"
+          },
+          {
+            "name": "齊齊哈爾市"
+          },
+          {
+            "name": "雙鴨山市"
+          },
+          {
+            "name": "綏化市"
+          },
+          {
+            "name": "伊春市"
+          }
+        ]
+      },
+      {
+        "name": "江蘇省",
+        "subitems": [
+          {
+            "name": "常州市"
+          },
+          {
+            "name": "淮安市"
+          },
+          {
+            "name": "連雲港市"
+          },
+          {
+            "name": "南京市"
+          },
+          {
+            "name": "南通市"
+          },
+          {
+            "name": "蘇州市"
+          },
+          {
+            "name": "泰州市"
+          },
+          {
+            "name": "無錫市"
+          },
+          {
+            "name": "宿遷市"
+          },
+          {
+            "name": "徐州市"
+          },
+          {
+            "name": "鹽城市"
+          },
+          {
+            "name": "揚州市"
+          },
+          {
+            "name": "鎮江市"
+          }
+        ]
+      },
+      {
+        "name": "浙江省",
+        "subitems": [
+          {
+            "name": "海鹽市"
+          },
+          {
+            "name": "杭州市"
+          },
+          {
+            "name": "湖州市"
+          },
+          {
+            "name": "嘉善市"
+          },
+          {
+            "name": "嘉興市"
+          },
+          {
+            "name": "金華市"
+          },
+          {
+            "name": "麗水市"
+          },
+          {
+            "name": "寧波市"
+          },
+          {
+            "name": "衢州市"
+          },
+          {
+            "name": "紹興市"
+          },
+          {
+            "name": "台州市"
+          },
+          {
+            "name": "溫州市"
+          },
+          {
+            "name": "舟山市"
+          }
+        ]
+      },
+      {
+        "name": "安徽省",
+        "subitems": [
+          {
+            "name": "安慶市"
+          },
+          {
+            "name": "蚌埠市"
+          },
+          {
+            "name": "亳州市"
+          },
+          {
+            "name": "池州市"
+          },
+          {
+            "name": "滁州市"
+          },
+          {
+            "name": "阜陽市"
+          },
+          {
+            "name": "合肥市"
+          },
+          {
+            "name": "淮北市"
+          },
+          {
+            "name": "淮南市"
+          },
+          {
+            "name": "黃山市"
+          },
+          {
+            "name": "六安市"
+          },
+          {
+            "name": "馬鞍山市"
+          },
+          {
+            "name": "銅陵市"
+          },
+          {
+            "name": "蕪湖市"
+          },
+          {
+            "name": "宿州市"
+          },
+          {
+            "name": "宣城市"
+          }
+        ]
+      },
+      {
+        "name": "福建省",
+        "subitems": [
+          {
+            "name": "福安市"
+          },
+          {
+            "name": "福清市"
+          },
+          {
+            "name": "福州市"
+          },
+          {
+            "name": "建甌市"
+          },
+          {
+            "name": "建陽市"
+          },
+          {
+            "name": "晉江市"
+          },
+          {
+            "name": "龍海市"
+          },
+          {
+            "name": "龍岩市"
+          },
+          {
+            "name": "南安市"
+          },
+          {
+            "name": "南平市"
+          },
+          {
+            "name": "寧德市"
+          },
+          {
+            "name": "莆田市"
+          },
+          {
+            "name": "泉州市"
+          },
+          {
+            "name": "三明市"
+          },
+          {
+            "name": "廈門市"
+          },
+          {
+            "name": "邵武市"
+          },
+          {
+            "name": "石獅市"
+          },
+          {
+            "name": "武夷山市"
+          },
+          {
+            "name": "永安市"
+          },
+          {
+            "name": "漳州市"
+          },
+          {
+            "name": "長樂市"
+          }
+        ]
+      },
+      {
+        "name": "江西省",
+        "subitems": [
+          {
+            "name": "撫州市"
+          },
+          {
+            "name": "贛州市"
+          },
+          {
+            "name": "吉安市"
+          },
+          {
+            "name": "景德鎮市"
+          },
+          {
+            "name": "九江市"
+          },
+          {
+            "name": "南昌市"
+          },
+          {
+            "name": "萍鄉市"
+          },
+          {
+            "name": "上饒市"
+          },
+          {
+            "name": "新余市"
+          },
+          {
+            "name": "宜春市"
+          },
+          {
+            "name": "鷹潭市"
+          }
+        ]
+      },
+      {
+        "name": "山東省",
+        "subitems": [
+          {
+            "name": "濱州市"
+          },
+          {
+            "name": "德州市"
+          },
+          {
+            "name": "東營市"
+          },
+          {
+            "name": "荷澤市"
+          },
+          {
+            "name": "菏澤市"
+          },
+          {
+            "name": "濟南市"
+          },
+          {
+            "name": "濟寧市"
+          },
+          {
+            "name": "萊蕪市"
+          },
+          {
+            "name": "聊城市"
+          },
+          {
+            "name": "臨沂市"
+          },
+          {
+            "name": "青島市"
+          },
+          {
+            "name": "日照市"
+          },
+          {
+            "name": "榮成市"
+          },
+          {
+            "name": "泰安市"
+          },
+          {
+            "name": "威海市"
+          },
+          {
+            "name": "濰坊市"
+          },
+          {
+            "name": "煙台市"
+          },
+          {
+            "name": "棗莊市"
+          },
+          {
+            "name": "淄博市"
+          }
+        ]
+      },
+      {
+        "name": "河南省",
+        "subitems": [
+          {
+            "name": "安陽市"
+          },
+          {
+            "name": "鶴壁市"
+          },
+          {
+            "name": "濟源市"
+          },
+          {
+            "name": "焦作市"
+          },
+          {
+            "name": "開封市"
+          },
+          {
+            "name": "洛陽市"
+          },
+          {
+            "name": "漯河市"
+          },
+          {
+            "name": "南陽市"
+          },
+          {
+            "name": "平頂山市"
+          },
+          {
+            "name": "濮陽市"
+          },
+          {
+            "name": "三門峽市"
+          },
+          {
+            "name": "商丘市"
+          },
+          {
+            "name": "新鄉市"
+          },
+          {
+            "name": "信陽市"
+          },
+          {
+            "name": "許昌市"
+          },
+          {
+            "name": "鄭州市"
+          },
+          {
+            "name": "周口市"
+          },
+          {
+            "name": "駐馬店市"
+          }
+        ]
+      },
+      {
+        "name": "湖北省",
+        "subitems": [
+          {
+            "name": "鄂州市"
+          },
+          {
+            "name": "恩施土家族苗族自治州"
+          },
+          {
+            "name": "黃岡市"
+          },
+          {
+            "name": "黃石市"
+          },
+          {
+            "name": "荊門市"
+          },
+          {
+            "name": "荊州市"
+          },
+          {
+            "name": "潛江市"
+          },
+          {
+            "name": "神農架林區"
+          },
+          {
+            "name": "十堰市"
+          },
+          {
+            "name": "隨州市"
+          },
+          {
+            "name": "天門市"
+          },
+          {
+            "name": "武漢市"
+          },
+          {
+            "name": "仙桃市"
+          },
+          {
+            "name": "咸寧市"
+          },
+          {
+            "name": "襄陽市"
+          },
+          {
+            "name": "孝感市"
+          },
+          {
+            "name": "宜昌市"
+          }
+        ]
+      },
+      {
+        "name": "湖南省",
+        "subitems": [
+          {
+            "name": "常德市"
+          },
+          {
+            "name": "郴州市"
+          },
+          {
+            "name": "衡陽市"
+          },
+          {
+            "name": "懷化市"
+          },
+          {
+            "name": "婁底市"
+          },
+          {
+            "name": "邵陽市"
+          },
+          {
+            "name": "湘潭市"
+          },
+          {
+            "name": "湘西土家族苗族自治州"
+          },
+          {
+            "name": "益陽市"
+          },
+          {
+            "name": "永州市"
+          },
+          {
+            "name": "岳陽市"
+          },
+          {
+            "name": "張家界市"
+          },
+          {
+            "name": "長沙市"
+          },
+          {
+            "name": "株洲市"
+          }
+        ]
+      },
+      {
+        "name": "廣東省",
+        "subitems": [
+          {
+            "name": "潮州市"
+          },
+          {
+            "name": "東莞市"
+          },
+          {
+            "name": "佛山市"
+          },
+          {
+            "name": "廣州市"
+          },
+          {
+            "name": "河源市"
+          },
+          {
+            "name": "惠州市"
+          },
+          {
+            "name": "江門市"
+          },
+          {
+            "name": "揭陽市"
+          },
+          {
+            "name": "茂名市"
+          },
+          {
+            "name": "梅州市"
+          },
+          {
+            "name": "南海市"
+          },
+          {
+            "name": "清遠市"
+          },
+          {
+            "name": "汕頭市"
+          },
+          {
+            "name": "汕尾市"
+          },
+          {
+            "name": "韶關市"
+          },
+          {
+            "name": "深圳市"
+          },
+          {
+            "name": "順德市"
+          },
+          {
+            "name": "陽江市"
+          },
+          {
+            "name": "雲浮市"
+          },
+          {
+            "name": "湛江市"
+          },
+          {
+            "name": "肇慶市"
+          },
+          {
+            "name": "中山市"
+          },
+          {
+            "name": "珠海市"
+          }
+        ]
+      },
+      {
+        "name": "海南省",
+        "subitems": [
+          {
+            "name": "白沙黎族自治縣"
+          },
+          {
+            "name": "保亭黎族苗族自治縣"
+          },
+          {
+            "name": "昌江黎族自治縣"
+          },
+          {
+            "name": "澄邁縣"
+          },
+          {
+            "name": "儋州市"
+          },
+          {
+            "name": "定安縣"
+          },
+          {
+            "name": "東方市"
+          },
+          {
+            "name": "海口市"
+          },
+          {
+            "name": "樂東黎族自治縣"
+          },
+          {
+            "name": "臨高縣"
+          },
+          {
+            "name": "陵水黎族自治縣"
+          },
+          {
+            "name": "瓊海市"
+          },
+          {
+            "name": "瓊中黎族苗族自治縣"
+          },
+          {
+            "name": "三亞市"
+          },
+          {
+            "name": "屯昌縣"
+          },
+          {
+            "name": "萬寧市"
+          },
+          {
+            "name": "文昌市"
+          },
+          {
+            "name": "五指山市"
+          }
+        ]
+      },
+      {
+        "name": "四川省",
+        "subitems": [
+          {
+            "name": "阿壩藏族羌族自治州"
+          },
+          {
+            "name": "巴中市"
+          },
+          {
+            "name": "成都市"
+          },
+          {
+            "name": "達州市"
+          },
+          {
+            "name": "德陽市"
+          },
+          {
+            "name": "甘孜藏族自治州"
+          },
+          {
+            "name": "廣安市"
+          },
+          {
+            "name": "廣元市"
+          },
+          {
+            "name": "樂山市"
+          },
+          {
+            "name": "涼山彝族自治州"
+          },
+          {
+            "name": "瀘州市"
+          },
+          {
+            "name": "眉山市"
+          },
+          {
+            "name": "綿陽市"
+          },
+          {
+            "name": "南充市"
+          },
+          {
+            "name": "內江市"
+          },
+          {
+            "name": "攀枝花市"
+          },
+          {
+            "name": "遂寧市"
+          },
+          {
+            "name": "雅安市"
+          },
+          {
+            "name": "宜賓市"
+          },
+          {
+            "name": "資陽市"
+          },
+          {
+            "name": "自貢市"
+          }
+        ]
+      },
+      {
+        "name": "貴州省",
+        "subitems": [
+          {
+            "name": "安順市"
+          },
+          {
+            "name": "畢節市"
+          },
+          {
+            "name": "貴陽市"
+          },
+          {
+            "name": "六盤水市"
+          },
+          {
+            "name": "黔東南苗族侗族自治州"
+          },
+          {
+            "name": "黔南布依族苗族自治州"
+          },
+          {
+            "name": "黔西南布依族苗族自治州"
+          },
+          {
+            "name": "銅仁市"
+          },
+          {
+            "name": "遵義市"
+          }
+        ]
+      },
+      {
+        "name": "雲南省",
+        "subitems": [
+          {
+            "name": "保山市"
+          },
+          {
+            "name": "楚雄彝族自治州"
+          },
+          {
+            "name": "大理白族自治州"
+          },
+          {
+            "name": "德宏傣族景頗族自治州"
+          },
+          {
+            "name": "迪慶藏族自治州"
+          },
+          {
+            "name": "紅河哈尼族彝族自治州"
+          },
+          {
+            "name": "昆明市"
+          },
+          {
+            "name": "麗江市"
+          },
+          {
+            "name": "臨滄地區"
+          },
+          {
+            "name": "臨滄市"
+          },
+          {
+            "name": "怒江傈僳族自治州"
+          },
+          {
+            "name": "普洱市"
+          },
+          {
+            "name": "曲靖市"
+          },
+          {
+            "name": "思茅市"
+          },
+          {
+            "name": "文山壯族苗族自治州"
+          },
+          {
+            "name": "西雙版納傣族自治州"
+          },
+          {
+            "name": "玉溪市"
+          },
+          {
+            "name": "昭通市"
+          }
+        ]
+      },
+      {
+        "name": "陝西省",
+        "subitems": [
+          {
+            "name": "安康市"
+          },
+          {
+            "name": "寶雞市"
+          },
+          {
+            "name": "漢中市"
+          },
+          {
+            "name": "商洛市"
+          },
+          {
+            "name": "銅川市"
+          },
+          {
+            "name": "渭南市"
+          },
+          {
+            "name": "西安市"
+          },
+          {
+            "name": "咸陽市"
+          },
+          {
+            "name": "延安市"
+          },
+          {
+            "name": "榆林市"
+          }
+        ]
+      },
+      {
+        "name": "甘肅省",
+        "subitems": [
+          {
+            "name": "白銀市"
+          },
+          {
+            "name": "定西市"
+          },
+          {
+            "name": "甘南藏族自治州"
+          },
+          {
+            "name": "嘉峪關市"
+          },
+          {
+            "name": "金昌市"
+          },
+          {
+            "name": "酒泉市"
+          },
+          {
+            "name": "蘭州市"
+          },
+          {
+            "name": "臨夏回族自治州"
+          },
+          {
+            "name": "隴南市"
+          },
+          {
+            "name": "平涼市"
+          },
+          {
+            "name": "慶陽市"
+          },
+          {
+            "name": "天水市"
+          },
+          {
+            "name": "武威市"
+          },
+          {
+            "name": "張掖市"
+          }
+        ]
+      },
+      {
+        "name": "青海省",
+        "subitems": [
+          {
+            "name": "果洛藏族自治州"
+          },
+          {
+            "name": "海北藏族自治州"
+          },
+          {
+            "name": "海東地區"
+          },
+          {
+            "name": "海東市"
+          },
+          {
+            "name": "海南藏族自治州"
+          },
+          {
+            "name": "海西蒙古族藏族自治州"
+          },
+          {
+            "name": "黃南藏族自治州"
+          },
+          {
+            "name": "西寧市"
+          },
+          {
+            "name": "玉樹藏族自治州"
+          }
+        ]
+      },
+      {
+        "name": "內蒙古自治區",
+        "subitems": [
+          {
+            "name": "阿拉善盟"
+          },
+          {
+            "name": "巴彥淖爾市"
+          },
+          {
+            "name": "包頭市"
+          },
+          {
+            "name": "赤峰市"
+          },
+          {
+            "name": "鄂爾多斯市"
+          },
+          {
+            "name": "呼和浩特市"
+          },
+          {
+            "name": "呼倫貝爾市"
+          },
+          {
+            "name": "通遼市"
+          },
+          {
+            "name": "烏海市"
+          },
+          {
+            "name": "烏蘭察布市"
+          },
+          {
+            "name": "錫林郭勒盟"
+          },
+          {
+            "name": "興安盟市"
+          }
+        ]
+      },
+      {
+        "name": "廣西壯族自治區",
+        "subitems": [
+          {
+            "name": "百色市"
+          },
+          {
+            "name": "北海市"
+          },
+          {
+            "name": "崇左市"
+          },
+          {
+            "name": "防城港市"
+          },
+          {
+            "name": "貴港市"
+          },
+          {
+            "name": "桂林市"
+          },
+          {
+            "name": "河池市"
+          },
+          {
+            "name": "賀州市"
+          },
+          {
+            "name": "來賓市"
+          },
+          {
+            "name": "柳州市"
+          },
+          {
+            "name": "南寧市"
+          },
+          {
+            "name": "欽州市"
+          },
+          {
+            "name": "梧州市"
+          },
+          {
+            "name": "玉林市"
+          }
+        ]
+      },
+      {
+        "name": "寧夏回族自治區",
+        "subitems": [
+          {
+            "name": "固原市"
+          },
+          {
+            "name": "石嘴山市"
+          },
+          {
+            "name": "吳忠市"
+          },
+          {
+            "name": "銀川市"
+          },
+          {
+            "name": "中衛市"
+          }
+        ]
+      },
+      {
+        "name": "新疆維吾爾自治區",
+        "subitems": [
+          {
+            "name": "阿克蘇地區"
+          },
+          {
+            "name": "阿拉爾市"
+          },
+          {
+            "name": "阿勒泰地區"
+          },
+          {
+            "name": "巴音郭楞蒙古自治州"
+          },
+          {
+            "name": "北屯市"
+          },
+          {
+            "name": "博爾塔拉蒙古自治州"
+          },
+          {
+            "name": "昌吉回族自治州"
+          },
+          {
+            "name": "哈密地區"
+          },
+          {
+            "name": "哈密市"
+          },
+          {
+            "name": "和田地區"
+          },
+          {
+            "name": "喀什地區"
+          },
+          {
+            "name": "克拉瑪依市"
+          },
+          {
+            "name": "克孜勒蘇柯爾克孜自治州"
+          },
+          {
+            "name": "石河子市"
+          },
+          {
+            "name": "雙河市"
+          },
+          {
+            "name": "塔城地區"
+          },
+          {
+            "name": "吐魯番地區"
+          },
+          {
+            "name": "吐魯番市"
+          },
+          {
+            "name": "烏魯木齊市"
+          },
+          {
+            "name": "五家渠市"
+          },
+          {
+            "name": "伊犁哈薩克自治州"
+          }
+        ]
+      },
+      {
+        "name": "西藏自治區",
+        "subitems": [
+          {
+            "name": "昌都市"
+          },
+          {
+            "name": "拉薩市"
+          },
+          {
+            "name": "林芝地區"
+          },
+          {
+            "name": "林芝市"
+          },
+          {
+            "name": "那曲地區"
+          },
+          {
+            "name": "那曲市"
+          },
+          {
+            "name": "日喀則地區"
+          },
+          {
+            "name": "日喀則市"
+          },
+          {
+            "name": "山南市"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "navigation": [
+      {
+        "pages": [
+          {
+            "name": "關於我們",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": "品牌概念",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": " 購物體驗",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": "分店位置",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": " 聯絡我們",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          }
+        ]
+      },
+      {
+        "pages": [
+          {
+            "name": " 產品",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": "全部商品",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": " 產品系列",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          }
+        ]
+      },
+      {
+        "pages": [
+          {
+            "name": "客戶服務",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": "會員",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": "線上購物",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": "退貨及換貨",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          },
+          {
+            "name": "幫助",
+            "href": "",
+            "tag": {
+              "category": "",
+              "label": "",
+              "action": ""
+            }
+          }
+        ]
+      }
+    ],
+    "term": [
+      {
+        "name": "網站地圖",
+        "href": "",
+        "tag": {
+          "category": "",
+          "label": "",
+          "action": ""
+        }
+      },
+      {
+        "name": "私隱政策",
+        "href": "",
+        "tag": {
+          "category": "",
+          "label": "",
+          "action": ""
+        }
+      },
+      {
+        "name": "Cookie 政策",
+        "href": "",
+        "tag": {
+          "category": "",
+          "label": "",
+          "action": ""
+        }
+      },
+      {
+        "name": "條款及細則",
+        "href": "",
+        "tag": {
+          "category": "",
+          "label": "",
+          "action": ""
+        }
+      }
+    ],
+    "copy": "© 2019 周生生集團國際有限公司"
+  },
+  "90667N-18KY-FP": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5d80c2381b3691d509ee6b4d",
+        "code": "90667N-18KY-FP",
+        "productName1": "EMPHASIS",
+        "productName2": "「Bloom」18K黃金淡水珍珠頸鍊",
+        "productName3": "18K/750黃色黃金中國淡水養殖珍珠頸鍊",
+        "docId": null,
+        "productDesc": null,
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": "S0650",
+          "description": "Bloom"
+        },
+        "usage": {
+          "code": "N",
+          "description": "頸鍊"
+        },
+        "productType": {
+          "code": "TF",
+          "description": "固定價珍珠飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-NECKLACES",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYGEMSTONE-PEARLS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "90667",
+        "materialCategory": {
+          "code": "FP",
+          "description": "中國淡水養殖珍珠"
+        },
+        "goldType": {
+          "code": "18KY",
+          "description": "18K 黃色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5d80d5e513e60e00019411ed",
+            "origPrice": "HK$5,200",
+            "starDollarEarnRate": null,
+            "starDollarRedeemUp": null,
+            "starDollarNTRedeemUp": null,
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": null,
+              "information": [
+                "18K/750黃色黃金中國淡水養殖珍珠頸鍊",
+                "中國淡水養殖珍珠, 總克拉重 0.01 克拉"
+              ]
+            },
+            "productType": "TF",
+            "returnable": true,
+            "media": {
+              "sizingImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/25cf8731b94e409406f6890706227c6a.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/e14829a766f11a2f14db511ed6f2bb38.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/c745c25b0e1b7bcef10fc1b98edf3f0f.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/2fe629afe5f3733a98c5a44b1a6ca692.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/7ab8376b9c38ea963b6abbc82ec15f20.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/9817f28aad770c09b330a64a62671bf9.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/8adf9b9623b9ccf149d8a85616ae2fbc.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/78a797083e17d24a4cb57ef4fd744ea8.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/d87af5b1ec319105556ba36352663bf2.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/0f1d1965fb0b3c0e0b7ed8911b71964c.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/3935908b4932394e155c8f1cbe4a8788.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/dfad567f3eb310b95939267a711ae2bf.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/837503b7210d37869766afe1c1c22d62.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/7e3549eb126c8a1dcdeb394bfbc68076.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/d1e9db784b0b4a9dbbcec58568302d8d.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/b19690b241f6aeeff83f3f86cec4bf69.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/59b5dcb73215b293a20bdcee6124e4e3.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/4bfdb360b04e9434ccad1671129d09eb.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/21fa536b380862f86db3cff832a45107.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/db5667fb0cf784c7f9be1597ff6c19d9.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/f04e0da8eb44f33c979e899d2230d4c2.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/79a61b7c59ce8794774f33f7690d88d7.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/d1fc7f3803dc582262aa16afdedf4bcb.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/efc418410adc2535e13cc53d913f6245.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/500f4986fff3a7d08bffebff2f72d89c.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/5814002a4caaeaa262e3dff5a5e83659.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/4550271274b8580565434c9900ad60b4.jpg"
+                },
+                {
+                  "seq": 6,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/0245887aa4e425e3826102faef16af26.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/ff6183927243c2a88ad230b6fdb709f3.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/beb97ef5de64a089d0f0e4ad9a2bb080.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/34c7272e73abfb4fb65d91d8f9567d12.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/d93af0f19d267bb55092c91be164101f.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": "EMP",
+          "description": "EMPHASIS"
+        },
+        "t73": [],
+        "keywords": [],
+        "productStyle": {
+          "productStyleGroup": {
+            "id": 5,
+            "groupCode": "PLP",
+            "description": "珍珠"
+          },
+          "productStyleSubGroup": null,
+          "productStyleDisplayGroup": null
+        },
+        "resizing": null,
+        "customized": null,
+        "productTag": "新季產品"
+      },
+      {
+        "itemId": "5d80c2381b3691d509ee6b83",
+        "code": "90667N-18KW-FP",
+        "productName1": "EMPHASIS",
+        "productName2": "「Bloom」18K黃金淡水珍珠頸鍊",
+        "productName3": "18K/750白色黃金中國淡水養殖珍珠頸鍊",
+        "docId": null,
+        "productDesc": null,
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": "S0650",
+          "description": "Bloom"
+        },
+        "usage": {
+          "code": "N",
+          "description": "頸鍊"
+        },
+        "productType": {
+          "code": "TF",
+          "description": "固定價珍珠飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-NECKLACES",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYGEMSTONE-PEARLS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "90667",
+        "materialCategory": {
+          "code": "FP",
+          "description": "中國淡水養殖珍珠"
+        },
+        "goldType": {
+          "code": "18KW",
+          "description": "18K 白色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5d89cf28427072000186c33c",
+            "origPrice": "HK$5,200",
+            "starDollarEarnRate": null,
+            "starDollarRedeemUp": null,
+            "starDollarNTRedeemUp": null,
+            "quantity": 1,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": null,
+              "information": [
+                "18K/750白色黃金中國淡水養殖珍珠頸鍊",
+                "中國淡水養殖珍珠, 總克拉重 0.01 克拉"
+              ]
+            },
+            "productType": "TF",
+            "returnable": true,
+            "media": {
+              "sizingImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/630349544729913c5080c92da94357a6.jpg",
+              "packingImage": "//cdn.chowsangsang.com/eshop/tw/newweb/packing.jpg",
+              "video": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/7e8a7b947180b5b036b1879b8dfd43ca.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/52bd177f5c5a2c5611cd4c57ec5909d0.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/3c2cf986e05b954e50fafcebb6eaa73a.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/615de77ddbfbb58d7aa1df6959b18897.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/a962d33bd763a43578753bf164b8e155.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/1f31af7f61f951217612faa9f0ca61aa.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/31b94eac7407f632b223d4787e3e6110.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/f1534eb11e92875f026026d20d23aac9.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/9a7de05d0171028b9f5b5faea2b5febc.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/d913ff626694c41e9210b908da5c4a9e.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/aa482344e612bb6429a478c8a6474b7d.jpg"
+                },
+                {
+                  "seq": 3,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/ce0188732937673b0304eb4c9d797068.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/51620f05121f5ba9a24bbf2bffb409d0.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/55ed5c25fe333537fb7df1ff90a7413d.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/ee313f3cddb5ad678b3b37d052c4dd8b.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/797be97701489d32c3ad4e61f6b30072.jpg"
+                },
+                {
+                  "seq": 4,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/6de0741ecaf87732e9dd3ffe5b85bd87.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/cf6f40a55576958cd03b47e1bb1722ab.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/832b140be548c2cdb74a76aae8b31a73.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/dd8a252142e81bc182903d55e3936100.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/caf33cf15ca44c9d187637ba265e078f.jpg"
+                },
+                {
+                  "seq": 5,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/deab9cd6369d76336f809339d6dc8a76.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/1a5b3a8af1aec38990ba4b2855610a8f.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/9268378df52156f38ed884a313171ac1.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/6189802e4afe09e0b64b8d04ba864e92.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/1e71ae1b39df3d4ce51a02d4e57cb1ed.jpg"
+                },
+                {
+                  "seq": 6,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/3b04ccf840c54a5f41d3b402375863d2.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/78e03619dbf4f67a9bae52317e4242ba.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/1de758c54b90bd40cccaf661bf75d890.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/61fb464e6e3d732e470c9c8d55e369ed.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90667/ace6bb62491839ae71c9a95b35d45753.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": "EMP",
+          "description": "EMPHASIS"
+        },
+        "t73": [],
+        "keywords": [],
+        "productStyle": {
+          "productStyleGroup": {
+            "id": 5,
+            "groupCode": "PLP",
+            "description": "珍珠"
+          },
+          "productStyleSubGroup": null,
+          "productStyleDisplayGroup": null
+        },
+        "resizing": null,
+        "customized": null,
+        "productTag": "新季產品"
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5d89cf28427072000186c33c",
+          "cci": "5d80c2381b3691d509ee6b83",
+          "lv1Code": "18KW",
+          "lv2Code": "47"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "18KW",
+                "name": "18K白色黃金",
+                "thumbnail": "//cdn.chowsangsang.com/eshop/hk/web/metal/18KW.png"
+              },
+              {
+                "code": "18KY",
+                "name": "18K黃色黃金",
+                "thumbnail": "//cdn.chowsangsang.com/eshop/hk/web/metal/18KY.png"
+              }
+            ],
+            "sizeGuideAnchor": null,
+            "sizeGuideMessage": null
+          },
+          "lv2": {
+            "title": "長度",
+            "subitems": [
+              {
+                "code": "47",
+                "name": "47 厘米",
+                "thumbnail": null
+              }
+            ],
+            "sizeGuideAnchor": "#guide-necklaces",
+            "sizeGuideMessage": "長度指南"
+          }
+        },
+        "relations": [
+          {
+            "code": "18KW",
+            "subitems": [
+              {
+                "code": "47",
+                "id": {
+                  "cbu": "5d89cf28427072000186c33c",
+                  "cci": "5d80c2381b3691d509ee6b83"
+                }
+              }
+            ]
+          },
+          {
+            "code": "18KY",
+            "subitems": [
+              {
+                "code": "47",
+                "id": {
+                  "cbu": "5d80d5e513e60e00019411ed",
+                  "cci": "5d80c2381b3691d509ee6b4d"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "display": {
+        "prevCode": null,
+        "nextCode": null
+      }
+    }
+  },
+  "90754R-18KW-QJ": {
+    "channelCatalogItems": [
+      {
+        "itemId": "5d80c2091b3691d509ee4f7c",
+        "code": "90754R-18KW-QJ",
+        "productName1": "EMPHASIS",
+        "productName2": "「Cosmos」18K黃金石英-硬玉戒指",
+        "productName3": "18K/750白色黃金石英-硬玉戒指",
+        "docId": null,
+        "productDesc": "\"紫石英硬玉/ 紅紋石戒指能與系列其他半寶石戒指疊戴拼湊，Mix & Match好玩多變，為每日穿搭增添打造出有如浩瀚星宿的閃亮魅力。\n紫石英硬玉象徵意義:平安和順; 紅紋石象徵意義:熱烈的愛情\"",
+        "priceType": "X",
+        "collection": {
+          "code": null,
+          "description": null
+        },
+        "subCollection": {
+          "code": "S0651",
+          "description": "Cosmos"
+        },
+        "usage": {
+          "code": "R",
+          "description": "戒指"
+        },
+        "productType": {
+          "code": "QF",
+          "description": "固定價半寶石飾品"
+        },
+        "categories": [
+          {
+            "code": "JEWELLERY",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYCATEGORY-RINGS",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYGEMSTONE-COLOREDGEMSTONES",
+            "seq": null
+          },
+          {
+            "code": "JEWELLERY-BYMETAL-18KGOLD",
+            "seq": null
+          },
+          {
+            "code": "COLLECTIONS",
+            "seq": null
+          }
+        ],
+        "styleCatgNbr": "90754",
+        "materialCategory": {
+          "code": "QJ",
+          "description": "石英-硬玉"
+        },
+        "goldType": {
+          "code": "18KW",
+          "description": "18K 白色黃金"
+        },
+        "prodPart": [],
+        "necklace": null,
+        "channelBookingUnits": [
+          {
+            "cbu": "5d80d63313e60e00019411f1",
+            "origPrice": "HK$2,900",
+            "starDollarEarnRate": null,
+            "starDollarRedeemUp": null,
+            "starDollarNTRedeemUp": null,
+            "quantity": 3,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "\"紫石英硬玉/ 紅紋石戒指能與系列其他半寶石戒指疊戴拼湊，Mix & Match好玩多變，為每日穿搭增添打造出有如浩瀚星宿的閃亮魅力。\n紫石英硬玉象徵意義:平安和順; 紅紋石象徵意義:熱烈的愛情\"",
+              "information": [
+                "18K/750白色黃金石英-硬玉戒指",
+                "石英-硬玉, 總克拉重 0.94 克拉"
+              ]
+            },
+            "productType": "QF",
+            "returnable": true,
+            "media": {
+              "sizingImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/20d2db715910f575e74ae62d1d82e42c.jpg",
+              "packingImage": "//cdn.chowsangsang.com/emphasis/web/pack02.jpg",
+              "video": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/31e9f68902c6f47a100411220e78e31c.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/3d9d39ca7c188398397609ef7a4de1bc.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/eee919066974341fca5db0b6b33950a9.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/db21c819bd565f6e91a7d65d714f7164.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/c65b18a3aa358401c08e08d759066fce.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/44aacc26b80d09543d087d16425d6dc7.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/5037a6f8346169c5d972e45bddc1ba84.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/26ede3e0f19ebe28faa5138cd2581f36.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/fc93019c4498ca7a1b0d60ec161a2b34.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/6131b946408fd1084e78ec923cb300ef.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/552d73d412773b728cdf0d431cafe18e.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          },
+          {
+            "cbu": "5d89ba747a89310001a6b690",
+            "origPrice": "HK$2,900",
+            "starDollarEarnRate": null,
+            "starDollarRedeemUp": null,
+            "starDollarNTRedeemUp": null,
+            "quantity": 2,
+            "earmarkQuantity": 0,
+            "detail": {
+              "description": "\"紫石英硬玉/ 紅紋石戒指能與系列其他半寶石戒指疊戴拼湊，Mix & Match好玩多變，為每日穿搭增添打造出有如浩瀚星宿的閃亮魅力。\n紫石英硬玉象徵意義:平安和順; 紅紋石象徵意義:熱烈的愛情\"",
+              "information": [
+                "18K/750白色黃金石英-硬玉戒指",
+                "石英-硬玉, 總克拉重 1 克拉"
+              ]
+            },
+            "productType": "QF",
+            "returnable": true,
+            "media": {
+              "sizingImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/20d2db715910f575e74ae62d1d82e42c.jpg",
+              "packingImage": "//cdn.chowsangsang.com/emphasis/web/pack02.jpg",
+              "video": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/31e9f68902c6f47a100411220e78e31c.mp4",
+              "images": [
+                {
+                  "seq": 1,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/3d9d39ca7c188398397609ef7a4de1bc.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/eee919066974341fca5db0b6b33950a9.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/db21c819bd565f6e91a7d65d714f7164.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/c65b18a3aa358401c08e08d759066fce.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/44aacc26b80d09543d087d16425d6dc7.jpg"
+                },
+                {
+                  "seq": 2,
+                  "zoomInUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/5037a6f8346169c5d972e45bddc1ba84.jpg",
+                  "zoomOutUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/26ede3e0f19ebe28faa5138cd2581f36.jpg",
+                  "displayUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/fc93019c4498ca7a1b0d60ec161a2b34.jpg",
+                  "listUrl": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/6131b946408fd1084e78ec923cb300ef.jpg",
+                  "miniCartImage": "https://cdn.chowsangsang.com/dfs/UAT/ivCssModelImages/90754/552d73d412773b728cdf0d431cafe18e.jpg"
+                }
+              ]
+            },
+            "accessory": null
+          }
+        ],
+        "engraving": false,
+        "brand": {
+          "code": "EMP",
+          "description": "EMPHASIS"
+        },
+        "t73": [],
+        "keywords": [],
+        "productStyle": null,
+        "resizing": null,
+        "customized": null,
+        "productTag": "新季產品"
+      }
+    ],
+    "ui": {
+      "options": {
+        "defaultShow": {
+          "cbu": "5d80d63313e60e00019411f1",
+          "cci": "5d80c2091b3691d509ee4f7c",
+          "lv1Code": "18KW",
+          "lv2Code": "13"
+        },
+        "display": {
+          "lv1": {
+            "title": "材質",
+            "subitems": [
+              {
+                "code": "18KW",
+                "name": "18K白色黃金",
+                "thumbnail": "//cdn.chowsangsang.com/eshop/hk/web/metal/18KW.png"
+              }
+            ],
+            "sizeGuideAnchor": null,
+            "sizeGuideMessage": null
+          },
+          "lv2": {
+            "title": "圈度",
+            "subitems": [
+              {
+                "code": "13",
+                "name": "13",
+                "thumbnail": null
+              },
+              {
+                "code": "15",
+                "name": "15",
+                "thumbnail": null
+              }
+            ],
+            "sizeGuideAnchor": "#guide-rings",
+            "sizeGuideMessage": "圈度指南"
+          }
+        },
+        "relations": [
+          {
+            "code": "18KW",
+            "subitems": [
+              {
+                "code": "13",
+                "id": {
+                  "cbu": "5d80d63313e60e00019411f1",
+                  "cci": "5d80c2091b3691d509ee4f7c"
+                }
+              },
+              {
+                "code": "15",
+                "id": {
+                  "cbu": "5d89ba747a89310001a6b690",
+                  "cci": "5d80c2091b3691d509ee4f7c"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "display": {
+        "prevCode": null,
+        "nextCode": null
+      }
+    }
+  },
+  "pickUpInStore": [
+    {
+      "districtName": "新界區",
+      "subDistrictName": "元朗區",
+      "storeId": "109",
+      "displayName": "109 元行",
+      "address": "香港新界區元朗青山公路 87 號地下",
+      "telephoneNumber": "+852 2476 2556,+852 2478 3351",
+      "givenName": "周生生元朗青山公路 87 號店",
+      "operatingHour": "09:30-20:00",
+      "dsLatitude": "22.304642",
+      "dsLongitude": "114.171357"
+    },
+    {
+      "districtName": "台北市",
+      "subDistrictName": "中山區",
+      "storeId": "110",
+      "displayName": "110 新光三越台北南西店",
+      "address": "臺北市中山區南京西路12號新光三越百貨4樓",
+      "telephoneNumber": "+886 2 2511 0959",
+      "givenName": "點睛品新光三越台北南西店",
+      "operatingHour": "10:30-22:00",
+      "dsLatitude": "22.304642",
+      "dsLongitude": "114.171357"
+    }
+  ],
+  "success": {
+    "ctId": "CTD20AM00001",
+    "rcptMobCtryCde": "852",
+    "rcptMobNbr": "3345678",
+    "rcptName": "阿星",
+    "rcptSl": "先生",
+    "country": "中國香港",
+    "city": "香港島",
+    "province": "中環",
+    "postCode": "123456",
+    "address1": "彌敦道9號",
+    "address2": "8樓A座",
+    "paymentType": "VISA",
+    "shippingFee": 5978,
+    "shippingFeeDiscount": 978,
+    "subtotalAmount": 60000,
+    "quantity": 2,
+    "totalAmount": 59780,
+    "couponCode": "",
+    "couponAmount": 0,
+    "estimatedDeliveryDate": "2019/10/1",
+    "estimateDutyTax": 600,
+    "deliveryMode": "優先送遞",
+    "cartItems": [
+      {
+        "itemId": "5b8f2f8e849f4030642e94ac",
+        "cbu": "10509732-WT-0.038",
+        "quantity": 1,
+        "amount": 1870,
+        "discountCode": "A1",
+        "discountName": "尊尚會員優惠",
+        "createDate": "2018-01-01T01:21:18.316",
+        "information": {
+          "channelCatalogItemId": "5b8f2f8e849f4030642e94ac",
+          "prodname1": "鑽石飾品",
+          "prodname2": "鑽石飾品",
+          "code": "C515",
+          "origPrice": "1870",
+          "imageUrl": "https://www.gia.edu/report-check?reportno=6162318649",
+          "productDetailUrl": "https://www.gia.edu/report-check?reportno=6162318649",
+          "data": [
+            {
+              "name": null,
+              "value": null
+            }
+          ],
+          "options": [
+            {
+              "name": null,
+              "value": null,
+              "type": null
+            }
+          ],
+          "discounts": [
+            {
+              "name": null,
+              "value": null,
+              "type": null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

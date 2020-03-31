@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Web site created using create-react-app" />
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>Promessa</title>
+  </head>
+  <body>
+    <div
+      id="container"
+      style="width:500px;height:375px;margin-left:50px; margin-top: 60px; border: 1px solid #000; float: left;"
+    >
+      <div id="container_1" style="position: absolute; width: 500px;height: 375px;"></div>
+      <div id="container_0" style="position: absolute;"></div>
+    </div>
+    <div
+      id="Inputs"
+      style="width:300px;height: 455px;float:left; margin-top:60px;  margin-left:10px;border: 1px solid #000;"
+    >
+      <div style="width:300px;height: 30px; padding: 10px; font-size:14px;">
+        <input type="radio" name="sex" value="male" onclick="selectRing(0)" checked="checked" />Ring #1
+        <input type="radio" name="sex" value="female" onclick="selectRing(1)" />Ring #2
+        <input type="radio" name="sex" value="female" onclick="selectRing(2)" />Ring Both
+      </div>
+      <div style="width:250px;height: 30px; padding: 10px;">
+        RingType
+        <select id="ringnum_select">
+          <option value="2">对戒</option>
+          <option value="1">单戒</option>
+        </select>
+      </div>
+      <div style="width:250px;height: 30px; padding: 10px;">
+        Gold Type
+        <select id="gold_select">
+          <option value="pt">铂金 - Platinum</option>
+          <option value="kw">K白 - 18KW</option>
+          <option value="kr">玫瑰金 - 18KR</option>
+          <option value="ky">K黄 - 18KY</option>
+        </select>
+      </div>
+      <div style="width:250px;height: 30px; padding: 10px;">
+        Shape of Shank
+        <select id="shape_select">
+          <option value="p">piatto</option>
+          <option value="o">ovale</option>
+          <option value="r">rotonto</option>
+        </select>
+      </div>
+      <div style="width:250px;height: 30px; padding: 10px;">
+        Width
+        <select id="width_select">
+          <option value="25">2.5mm</option>
+          <option value="35">3.5mm</option>
+          <option value="40">4mm</option>
+          <option value="50">5mm</option>
+        </select>
+      </div>
+      <div style="width:250px;height: 30px; padding: 10px;">
+        Surface
+        <select id="surface_select">
+          <option value="0">Smooth</option>
+          <option value="1">Hammerstone</option>
+          <option value="2">HairLine</option>
+          <option value="4">Sand</option>
+          <option value="3">Linear</option>
+        </select>
+      </div>
+      <div style="width:280px;height: 40px; padding: 10px;">
+        Outter Diamond Setting
+        <select id="show_out_select">
+          <option value="0">None</option>
+          <option selected value="1">1 Diamond</option>
+        </select>
+        <br />
+        			Outter Diamond Color
+			<select id="out_select_color">
+				<option value="dd">dd</option>				
+				<option value="aq">aq</option>
+				<option value="at">at</option>
+				<option value="cr">cr</option>
+				<option value="em">em</option>
+				<option value="fm">fm</option>
+				<option value="ga">ga</option>
+				<option value="pe">pe</option>
+				<option value="ru">ru</option>
+				<option value="sa">sa</option>
+				<option value="tu">tu</option>
+				<option value="tz">tz</option>			
+			</select>			
+		</div>	
+        <div style="width:280px;height: 30px; padding: 10px;">
+          Inner Diamond Setting
+          <select id="show_in_select">
+            <option value="0">None</option>
+            <option value="1">1 Diamond</option>
+          </select>
+          <br />
+          Inner Diamond Color
+          <select id="in_select_color">
+            <option value="dd">dd</option>
+            <option value="aq">aq</option>
+            <option value="at">at</option>
+            <option value="cr">cr</option>
+            <option value="em">em</option>
+            <option value="fm">fm</option>
+            <option value="ga">ga</option>
+            <option value="pe">pe</option>
+            <option value="ru">ru</option>
+            <option value="sa">sa</option>
+            <option value="tu">tu</option>
+            <option value="tz">tz</option>
+          </select>
+        </div>
+
+        <div id="loadingDiv" style="width:250px;height: 10px; padding-left: 10px; color:#f00; display: none;">
+          loading...
+        </div>
+
+        <div id="logoEdit" style="width: 280px; height: 200px; padding: 10px;display:none;">
+          Logo Level <input class="logoEdit" id="logoSc" type="number" step="0.01" name="logoSc" value="8.0" /><br />
+          Logo OffsetX
+          <input
+            class="logoEdit"
+            id="logoOx"
+            type="number"
+            step="0.01"
+            min="-1"
+            max="1.0"
+            name="logoOx"
+            value="-0.69"
+          /><br />
+          Logo OffsetY <input class="logoEdit" id="logoOy" type="number" step="0.01" name="logoOy" value="0.5" /><br />
+        </div>
+      </div>
+    </div>
+    <div id="main"></div>
+  </body>
+  <script src="%PUBLIC_URL%/js/libs.js"></script>
+  <script src="%PUBLIC_URL%/src/DiamondShader.js" type="text/javascript"></script>
+  <script src="%PUBLIC_URL%/src/ModelDict.js" type="text/javascript"></script>
+  <script src="%PUBLIC_URL%/src/RingModel.js" type="text/javascript"></script>
+  <script src="%PUBLIC_URL%/src/Manager.js" type="text/javascript"></script>
+  <script src="%PUBLIC_URL%/src/HandleEvent.js" type="text/javascript"></script>
+</html>
