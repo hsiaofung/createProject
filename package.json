@@ -23,7 +23,7 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
     "styled-components": "^4.4.0",
-    "three": "^0.114.0"
+    "three": "^0.137.0"
   },
   "scripts": {
     "start": "PORT=3030 react-scripts start",
